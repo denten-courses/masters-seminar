@@ -1,21 +1,21 @@
 This MA seminar (1) provides a selective overview of major developments in
 Anglophone literary studies, (2) introduces students to advanced research
-methods in the field, and (3) develops familiarity with professional norms,
-practices, and common forms of discourse.
+methods in the field, and (3) develops familiarity with professional norms and
+practices.
 
 Since these topics greatly exceed the capacity of a single semester, our goal
 will be to establish a framework that will continue to grow and consolidate
 throughout your professional career. Each week we will read and discuss
-several essays (stand-alone or book chapters), representative of a decade---
-starting with the turn of the twentieth century and ending in the
+several essays (stand-alone or book chapters), representative of a
+decade---starting with the turn of the twentieth century and ending in the
 twenty-first.
 
 Students should expect to participate actively in weekly discussions, in-class
-and online, as well as to complete short written skill-building assignments.
-Together, we will reflect on the morphology of an academic essay, book,
-conference paper, journal, archive, and press. We will have the chance to
-share effective strategies for brainstorming, researching, writing, editing,
-and bringing your projects to completion.
+and online, and to complete regular short written skill-building assignments.
+Together, we will reflect on the morphology of common academic forms---such as
+the essay, book, conference paper, journal, archive, and press---as well as
+share effective strategies for brainstorming, researching, organizing,
+writing, editing, and bringing your projects to completion.
 
 **Required Texts**
 

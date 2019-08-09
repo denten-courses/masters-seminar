@@ -19,11 +19,15 @@ writing, editing, and bringing your projects to completion.
 
 **Required Texts**
 
+- A
+- B
+- C
+
 **Grading Requirements**
 
-25% Participation (class + online)
-50% Written Assignments
-25% Final Presentation
+- 25% Participation (class + online)
+- 50% Written Assignments
+- 25% Final Presentation
 
 ### Week 1
 Introductions, goals, class requirements.

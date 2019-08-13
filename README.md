@@ -92,7 +92,6 @@ Culture*][33] by Franz Boas.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.
-- Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
 
 [41]: www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
@@ -101,6 +100,7 @@ Culture*][33] by Franz Boas.
 
 ### Week 5
 
+- Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.

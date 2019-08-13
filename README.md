@@ -135,6 +135,7 @@ Culture*][33] by Franz Boas.
 
 - Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel Trilling.
 - Selections from *Anatomy of Criticism* (1957) by Northrop Frye.
+- Selection from *The Rhetoric of Fiction* (1961) by Wayne Booth.
 
 ### Week 8
 

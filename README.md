@@ -109,6 +109,8 @@ Culture*][33] by Franz Boas.
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.
+- "[The Rhetoric of Hitler's 'Battle'][61]" (1939) reprinted in *The Philosophy of Literary
+  Form* by Kenneth Burke.
 
 [51]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
 [52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
@@ -116,12 +118,12 @@ Culture*][33] by Franz Boas.
 
 ### Week 6
 
-- "[The Rhetoric of Hitler's 'Battle'][61]" (1939) reprinted in *The Philosophy of Literary
-  Form* by Kenneth Burke.
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
+- Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *The Sewanee Review* 57, no. 1
+  (1949): 31–55.
 
 [61]: https://courseworks2.columbia.edu/files/5583246/download?download_frd=1
 [62]: https://archive.org/download/in.ernet.dli.2015.183272/2015.183272.The-Triple-Thinkers.pdf
@@ -129,9 +131,8 @@ Culture*][33] by Franz Boas.
 
 ### Week 7
 
-- Frye *Anatomy of Criticism* (1957)
-- Wimsatt and Brook. Literary Criticism
-
+- Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel Trilling.
+- Selections from *Anatomy of Criticism* (1957) by Northrop Frye.
 
 ### Week 8
 
@@ -147,8 +148,10 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.
 - Eagleton, Terry. “What Is Fascism ?” *New Blackfriars* 57, no. 670 (1976): 100–106.
 - "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
-- "Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
-  Frederic Jameson.
+- Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1 (1973):
+  41–54.
+- ~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+  Frederic Jameson.~
 
 [92]: https://courseworks2.columbia.edu/courses/82199/files?
 [93]: https://archive.org/details/marxismliteraryc00eagl/page/n5
@@ -156,44 +159,46 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 10
 
-- "[Discourse in the Novel][101]" in *Dialogic Imagination* (1981[1945]) by Mikhail Bakhtin,
-  pages 259--331.
+- Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
+  (1981): 179–205.
 - De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3–20.
 - "Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
   African-American Literary Criticism*][103] (1988) by Henry Louis Gates.
 
-[101]: https://quod.lib.umich.edu/cache/h/e/b/heb09354.0001.001/00000293.tif.164.pdf
+[101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
 [103]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
 
 ### Week 11
 
-- Showalter.
-- Barbara Johnson, Critical
-- Deference. Said, World, Text, Critic.
+- Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary History*
+  21, no. 4 (1990): 867–96.
+- Alcoff, Linda. “[The Problem of Speaking for Others][112].” *Cultural Critique*, no. 20 (1991): 5–32.
+- Selections from *Culture and Imperialism* (1993) by Edward Said.
+
+[111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
+[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
 
 ### Week 12
 
+- Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.
+- Selections from *A History of the Modern Fact* (1998) by Mary Poovey.
 - "The Touch of the Real" and "The Potato in Materialist Imagination" in [Practicing New
   Historicism][121] (2000) by Catherine Gallagher and Stephen Greenblatt.
-
-- *Epistemology of the Closet* (1990) by  Eve Kosofsky Sedgwick.
 
 [121]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 
 ### Week 13
 
-- Spivak, Critique. 
-- Zunshine
-- Casanova. The republic of Letters.
-- *Literary Reading: Empirical and Theoretical Studies* (2006) by David S. Miall.
+- Selections from *Feeling Backward Loss and the Politics of Queer History* (2007) by Heather
+  Love.
+- Selections from *Literary Reading: Empirical and Theoretical Studies* (2006) by David Miall.
 
 ### Week 14
 
-- Ngai.
-- The Fall of Language in the Age of English
-- Born Translated
+- Selection from *The Fall of Language in the Age of English* (2015) by Minae Mizumura.
 - "[Nothing is Hidden][145]" by Toril Moi in *Critique and Postcritique* (2017).
+
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?
 

@@ -1,5 +1,4 @@
 ## English and Comparative Literature Masters Seminar
-
 `Fall 2019 English GR5001 Section 002`
 
 !!! Syllabus in progress, check the commit date.

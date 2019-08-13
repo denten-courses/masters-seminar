@@ -165,9 +165,9 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
   (1981): 179–205.
 - ~De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3–20.~
-  African-American Literary Criticism*][103] (1988) by Henry Louis Gates.
 - "Metaphor, Metonymy, and Voice in Their Eyes are Watching God" (1989) by Barbara Johnson.
 - "Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
+  African-American Literary Criticism*][103] (1988) by Henry Louis Gates.
 
 [101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents

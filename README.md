@@ -65,8 +65,8 @@ through online participation above the weekly minimum.
 
 ### Week 1
 
-Introductions, goals, class requirements. Limitations of the format. Our methods of reading.
-Semantic cognates exercise.
+Introductions, goals, class requirements. Limitations of the format. Our ways of reading.
+Theme, method, archive exercise.
 
 ### Week 2
 

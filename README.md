@@ -1,3 +1,7 @@
+## English and Comparative Literature Masters Seminar
+
+!!! Syllabus in progress, check the commit date.
+
 This MA seminar (1) provides an episodic overview of developments in Anglophone literary
 studies, (2) introduces students to advanced research methods in the field, and (3) develops
 familiarity with professional norms and practices.
@@ -163,7 +167,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 11
 
-- Showalter. De Mann Blindness and Insight. 
+- Showalter.
 - Barbara Johnson, Critical
 - Deference. Said, World, Text, Critic.
 

@@ -137,19 +137,20 @@ Culture*][33] by Franz Boas.
 ### Week 8
 
 - "On Style" and "Notes on Camp" by Susan Sontag (1966).
-- Hartman, Geoffrey. “[Beyond Formalism][85].” MLN 81, no. 5 (1966): 542–56.
-- Kate Millet, *Sexual Politics* (1970).
+- Hartman, Geoffrey. “[Beyond Formalism][85].” *MLN* 81, no. 5 (1966): 542–56.
+- Selections from Kate Millet, *Sexual Politics* (1970).
 
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
 
 ### Week 9
 
-- Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.
-- Eagleton, Terry. “What Is Fascism ?” *New Blackfriars* 57, no. 670 (1976): 100–106.
-- "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
 - Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1 (1973):
   41–54.
+- "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
+- Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
+  Bibliography* 29 (1976): 167–211.
+- ~Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.~
 - ~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
   Frederic Jameson.~
 
@@ -197,11 +198,11 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 ### Week 14
 
 - Selection from *The Fall of Language in the Age of English* (2015) by Minae Mizumura.
+- English, James F. “Now, Not Now: Counting Time in Contemporary Fiction Studies.” *Modern
+  Language Quarterly* 77, no. 3 (September 1, 2016): 395–418.
 - "[Nothing is Hidden][145]" by Toril Moi in *Critique and Postcritique* (2017).
 
-
 [145]: https://courseworks2.columbia.edu/courses/82199/files?
-
 
 ## Notes:
 

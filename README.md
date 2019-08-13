@@ -1,7 +1,7 @@
 ## English and Comparative Literature Masters Seminar
 `Fall 2019 English GR5001 Section 002`
 
-!!! Syllabus in progress, check the commit date.
+> Syllabus in progress, check the commit date.
 
 This MA seminar (1) provides an episodic overview of developments in Anglophone literary
 studies, (2) introduces students to advanced research methods in the field, and (3) develops

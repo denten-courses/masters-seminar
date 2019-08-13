@@ -129,6 +129,7 @@ Culture*][33] by Franz Boas.
 
 
 ### Week 8
+
 - "On Style" and "Notes on Camp" by Susan Sontag (1966).
 - Hartman, Geoffrey. “[Beyond Formalism][85].” MLN 81, no. 5 (1966): 542–56.
 - Kate Millet, *Sexual Politics* (1970).
@@ -141,7 +142,8 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.
 - Eagleton, Terry. “What Is Fascism ?” *New Blackfriars* 57, no. 670 (1976): 100–106.
 - "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
-- *The Political Unconscious: Narrative as a Socially Symbolic Act* (1981) by Frederic Jameson.
+- "Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+  Frederic Jameson.
 
 [92]: https://courseworks2.columbia.edu/courses/82199/files?
 [93]: https://archive.org/details/marxismliteraryc00eagl/page/n5

@@ -47,7 +47,7 @@ through online participation above the weekly minimum.
 [1]: https://xpmethod.plaintext.in/lab-culture.html
 [2]: https://gsas.columbia.edu/student-guide/research/academic-integrity-and-responsible-conduct-research
 
-*Locations*
+**Locations**
 
 - Classroom TBA
 - [Courseworks][3]

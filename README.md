@@ -12,7 +12,9 @@ establish a framework that will continue to grow and consolidate throughout your
 career. Each week we will read and discuss several essays (stand-alone or book chapters),
 representative of a decade---starting with the turn of the twentieth century and ending in the
 twenty-first. Some of these will turn out to be canonical, while others represent still
-incohate possibilities for future research.
+inchoate directions for future research. Throughout we will pay attention not only to what is
+being said, but how. I am interested here in the *work* of literary scholarship---its expertise
+and possibilities as a discipline.
 
 Students should expect to participate actively in weekly discussions, in-class and online, and
 to complete regular short written skill-building assignments.  Together, we will reflect on the
@@ -184,16 +186,17 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 - Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.
 - Selections from *A History of the Modern Fact* (1998) by Mary Poovey.
-- "The Touch of the Real" and "The Potato in Materialist Imagination" in [Practicing New
-  Historicism][121] (2000) by Catherine Gallagher and Stephen Greenblatt.
+- "The Touch of the Real" in [Practicing New Historicism][121] (2000) by Catherine Gallagher
+  and Stephen Greenblatt.
 
 [121]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 
 ### Week 13
 
+- "Translating into English" (2005) by Gayatri Spivak.
+- Selections from *Literary Reading: Empirical and Theoretical Studies* (2006) by David Miall.
 - Selections from *Feeling Backward Loss and the Politics of Queer History* (2007) by Heather
   Love.
-- Selections from *Literary Reading: Empirical and Theoretical Studies* (2006) by David Miall.
 
 ### Week 14
 

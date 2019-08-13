@@ -28,23 +28,23 @@ organizing, writing, editing, and bringing your projects to completion.
 
 Online participatin
 
-** Class Policies**
+**Class Policies**
 
-> We will seek to create a respectful and supportive environment for our community. Consult the
-xpMethods [lab-culture][^1] for core principles.
+- We will seek to create a respectful and supportive environment for our community. Consult the
+xpMethods [lab-culture][1] for core principles.
 
-> Please *bring a paper copy* of each reading to the class. The use of electronic devices will
+- Please *bring a paper copy* of each reading to the class. The use of electronic devices will
 be limited to specific exercises.
 
-> Links to most readings will be provided. However, you are ultimately responsible for
+- Links to most readings will be provided. However, you are ultimately responsible for
 procuring the reading materials. Whenever possible, seek documents *in context* of their
 publication. I also strongly encourage that you purchase those texts that are relevant to your
 interests, and use them to build your core library of secondary literature.
 
-> Participate from home without guilt when not feeling well, particularly during the flu
+- Participate from home without guilt when not feeling well, particularly during the flu
 season. Any absences can be remedied with extra participation online.
 
-> Consult Columbia's guidelines on [Academic Integrity and Responsible Conduct of Research][^2]
+- Consult Columbia's guidelines on [Academic Integrity and Responsible Conduct of Research][2]
 
 [1]: https://xpmethod.plaintext.in/lab-culture.html
 [2]: https://gsas.columbia.edu/student-guide/research/academic-integrity-and-responsible-conduct-research
@@ -53,17 +53,17 @@ season. Any absences can be remedied with extra participation online.
 
 Introductions, goals, class requirements.
 
-## Week 2
+### Week 2
 
-- "[The Experimental Novel][^3], Émile Zola. Pages 1--56 in the linked volume.
-- "Literature and the College," in [*Literature and the American College*][4] (1908) by
+- "[The Experimental Novel][21], Émile Zola. Pages 1--56 in the linked volume.
+- "Literature and the College," in [*Literature and the American College*][22] (1908) by
   Babbitt, pages 61--79.
-- "Units of Thought and of Expression of Thought" and "The Weight of Styles" in *Analytics of
-  Literature* (1893) by L.A.  Sherman, pages 281--302.
+- "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
+  of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
 
-[3]: https://books.google.com/books/about/The_Experimental_Novel.html
-[4]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
-[5]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
+[21]: https://books.google.com/books/about/The_Experimental_Novel.html
+[22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
+[23]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
 
 ## Week 3
 

@@ -89,7 +89,8 @@ Theme, method, archive exercise.
 - "The Development of Folk-tales and Myths" (1916), pages 397--406 in [*Race, Language, and
 Culture*][33] by Franz Boas.
 
-[31]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
+[31]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
+[32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
 [33]: https://archive.org/download/folktalesofsalis00boas/folktalesofsalis00boas_bw.pdf
 
 ### Week 4

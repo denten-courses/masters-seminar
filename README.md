@@ -43,11 +43,12 @@ interests.
 
 - We will not always have time to discuss every text assigned. Regardless, you are responsible
   for the entirety of the material. Pursue your curiosity by expanding the selection to cover
-the table of context, the introduction, and the conclusion of each text.
+TOCs, introductions, and conclusions.
 
-- When not feeling well, you have the option to engage from home. Take it (especially during
-  the flu season). There is no penalty. An absence for any reason can always be remedied
-through online participation above the weekly minimum.
+- When not feeling well, you have the option to engage from home. Rest and recover before
+  coming back to class, especially during the flu season. There is no penalty for doing so. An
+absence for any reason can always be remedied through online participation above the weekly
+minimum.
 
 - Consult Columbia's guidelines on [Academic Integrity and Responsible Conduct of Research][2].
 

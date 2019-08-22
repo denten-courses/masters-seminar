@@ -211,17 +211,16 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?
 
-## Notes:
+### Potential Worksheets (not finished)
 
 - Anatomy of a paper.
 - Anatomy of a book.
-- Pick one term and trace its development in the 20th century.
+- Visiting archives
+- Online corpora and databases
+- Styles of conference presentation
+- Journal Landscape List the major journals in your field. Copy and paste the editorial
+  statement.  Research the editorial board. What is a journal's history. Look at the inaugural
+issue
 - Syllabus
-- Conference Paper. Styles of presentation.
-- Journal Landscape
-List the major journals in your field. Copy and paste the editorial statement.
-Research the editorial board. What is a journal's history. Look at the
-inaugural issue.
-- Physical archives.
-- Digital archives.
+- A Genealogy of _________
 

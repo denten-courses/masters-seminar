@@ -213,14 +213,13 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Potential Worksheets (not finished)
 
-- Anatomy of a paper.
-- Anatomy of a book.
-- Visiting archives
-- Online corpora and databases
-- Styles of conference presentation
-- Journal Landscape List the major journals in your field. Copy and paste the editorial
-  statement.  Research the editorial board. What is a journal's history. Look at the inaugural
-issue
+- Online corpora and databases (A Genealogy of What)
+- Bibliography
 - Syllabus
-- A Genealogy of _________
-
+- Journal Landscape List the major journals in your field. Copy and paste the editorial
+  statement. Research the editorial board. What is a journal's history. Look at the inaugural
+issue.
+- Anatomy of a paper
+- Anatomy of a book
+- Visiting archives
+- Styles of conference presentation

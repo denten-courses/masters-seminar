@@ -75,7 +75,7 @@ Theme, method, archive exercise.
 - "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
   of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
 - "Literature and the College," in [*Literature and the American College*][22] (1908) by Irving
-  Babbitt, pages 61--79.
+  Babbitt, pages 88--117.
 
 [21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf

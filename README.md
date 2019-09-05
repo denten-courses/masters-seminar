@@ -64,12 +64,12 @@ minimum.
 
 [3]: https://courseworks2.columbia.edu/courses/82199
 
-### Week 1
+### Week 0
 
 Introductions, goals, class requirements. Limitations of the format. Our ways of reading.
 Theme, method, archive exercise.
 
-### Week 2
+### Week 1
 
 - "[The Experimental Novel][21] (1893), Émile Zola. Pages 1--56 in the linked volume.
 - "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
@@ -81,7 +81,7 @@ Theme, method, archive exercise.
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
 [23]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
 
-### Week 3
+### Week 2
 
 - "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
   Fiction*][31] (1908) by Clayton Meeker Hamilton.
@@ -94,7 +94,7 @@ Culture*][33] by Franz Boas.
 [32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
 [33]: https://archive.org/download/folktalesofsalis00boas/folktalesofsalis00boas_bw.pdf
 
-### Week 4
+### Week 3
 
 - "[Tradition and the Individual Talent][41]" by T.S. ELiot in *The Egoist* (September, 1919).
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
@@ -107,7 +107,7 @@ Culture*][33] by Franz Boas.
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
 [44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf
 
-### Week 5
+### Week 4
 
 - Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
@@ -120,7 +120,7 @@ Culture*][33] by Franz Boas.
 [52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
 [53]: https://archive.org/details/folklorememoirso00hurs/page/812
 
-### Week 6
+### Week 5
 
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
@@ -133,13 +133,13 @@ Culture*][33] by Franz Boas.
 [62]: https://archive.org/download/in.ernet.dli.2015.183272/2015.183272.The-Triple-Thinkers.pdf
 [63]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
 
-### Week 7
+### Week 6
 
 - Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel Trilling.
 - Selections from *Anatomy of Criticism* (1957) by Northrop Frye.
 - Selection from *The Rhetoric of Fiction* (1961) by Wayne Booth.
 
-### Week 8
+### Week 7
 
 - "On Style" and "Notes on Camp" by Susan Sontag (1966).
 - Hartman, Geoffrey. “[Beyond Formalism][85].” *MLN* 81, no. 5 (1966): 542–56.
@@ -148,7 +148,7 @@ Culture*][33] by Franz Boas.
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
 
-### Week 9
+### Week 8
 
 - Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1 (1973):
   41–54.
@@ -163,7 +163,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [93]: https://archive.org/details/marxismliteraryc00eagl/page/n5
 [94]: https://courseworks2.columbia.edu/courses/82199/files
 
-### Week 10
+### Week 9  
 
 - Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
   (1981): 179–205.
@@ -176,7 +176,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
 [103]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
 
-### Week 11
+### Week 10
 
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary History*
   21, no. 4 (1990): 867–96.
@@ -186,7 +186,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
 [112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
 
-### Week 12
+### Week 11
 
 - Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.
 - Selections from *A History of the Modern Fact* (1998) by Mary Poovey.
@@ -195,14 +195,14 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 [121]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 
-### Week 13
+### Week 12
 
 - "Translating into English" (2005) by Gayatri Spivak.
 - Selections from *Literary Reading: Empirical and Theoretical Studies* (2006) by David Miall.
 - Selections from *Feeling Backward Loss and the Politics of Queer History* (2007) by Heather
   Love.
 
-### Week 14
+### Week 13
 
 - Selection from *The Fall of Language in the Age of English* (2015) by Minae Mizumura.
 - English, James F. “Now, Not Now: Counting Time in Contemporary Fiction Studies.” *Modern

@@ -87,12 +87,11 @@ Theme, method, archive exercise.
   Fiction*][31] (1908) by Clayton Meeker Hamilton.
 - Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][32]
   (1913) by Vernon Lee [Violet Paget].
-- "The Development of Folk-tales and Myths" (1916), pages 397--406 in [*Race, Language, and
-Culture*][33] by Franz Boas.
+- "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz Boas.
 
 [31]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
 [32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
-[33]: https://archive.org/download/folktalesofsalis00boas/folktalesofsalis00boas_bw.pdf
+[33]: https://archive.org/download/jstor-6151/6151.pdf
 
 ### Week 3
 

@@ -88,10 +88,12 @@ Theme, method, archive exercise.
 - Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][32]
   (1913) by Vernon Lee [Violet Paget].
 - "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz Boas.
+- Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan Tragedy*][34] (1914) by Harriott Ely Fansler.
 
 [31]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
 [32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
 [33]: https://archive.org/download/jstor-6151/6151.pdf
+[34]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
 
 ### Week 3
 

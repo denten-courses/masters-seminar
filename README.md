@@ -96,7 +96,7 @@ Theme, method, archive exercise.
 
 ### Week 3
 
-- "[Tradition and the Individual Talent][41]" by T.S. ELiot in *The Egoist* (September, 1919).
+- "[Tradition and the Individual Talent][41]" by T.S. Eliot in *The Egoist* (September, 1919).
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]

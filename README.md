@@ -55,12 +55,13 @@ minimum.
 
 **Locations**
 
-- Classroom TBA
+- Northwest Corner 502 
 - [Courseworks][3]
-- Piazza
+- [Piazza][4]
 - Office hours at Philosophy 408b by appointment.
 
 [3]: https://courseworks2.columbia.edu/courses/82199
+[4]: https://piazza.com/class/k05vu86a8864vy
 
 ### Week 0
 

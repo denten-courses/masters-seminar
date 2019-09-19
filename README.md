@@ -102,7 +102,7 @@ Theme, method, archive exercise.
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.
 
-[41]: https://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
+[41]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
 [44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf

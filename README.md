@@ -1,5 +1,5 @@
 ## English and Comparative Literature Masters Seminar
-`Fall 2019 English GR5001 Section 002`
+`Fall 2019 English GR5001 Section 002 Dennis Yi Tenen`
 
 This MA seminar (1) provides an episodic overview of developments in Anglophone literary
 studies, (2) introduces students to advanced research methods in the field, and (3) develops
@@ -55,7 +55,7 @@ minimum.
 
 **Locations**
 
-- Northwest Corner 502 
+- Northwest Corner 502
 - [Courseworks][3]
 - [Piazza][4]
 - Office hours at Philosophy 408b by appointment.
@@ -84,10 +84,12 @@ Theme, method, archive exercise.
 
 - "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
   Fiction*][31] (1908) by Clayton Meeker Hamilton.
-- Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][32]
-  (1913) by Vernon Lee [Violet Paget].
-- "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz Boas.
-- Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan Tragedy*][34] (1914) by Harriott Ely Fansler.
+- Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][32] (1913)
+  by Vernon Lee [Violet Paget].
+- "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz
+  Boas.
+- Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan
+  Tragedy*][34] (1914) by Harriott Ely Fansler.
 
 [31]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
 [32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
@@ -99,8 +101,7 @@ Theme, method, archive exercise.
 - "[Tradition and the Individual Talent][41]" by T.S. Eliot in *The Egoist* (September, 1919).
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
-  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
-(1929) by I.A. Richards.
+  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43] (1929) by I.A. Richards.
 
 [41]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
@@ -155,9 +156,9 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
-- ~Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.~
-- ~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
-  Frederic Jameson.~
+- ~~Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.~~
+- ~~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+  Frederic Jameson.~~
 
 [92]: https://courseworks2.columbia.edu/courses/82199/files?
 [93]: https://archive.org/details/marxismliteraryc00eagl/page/n5
@@ -167,7 +168,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 - Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
   (1981): 179–205.
-- ~De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3–20.~
+- ~~De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3--20.~~
 - "Metaphor, Metonymy, and Voice in Their Eyes are Watching God" (1989) by Barbara Johnson.
 - "Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
   African-American Literary Criticism*][103] (1988) by Henry Louis Gates.
@@ -210,16 +211,3 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - "[Nothing is Hidden][145]" by Toril Moi in *Critique and Postcritique* (2017).
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?
-
-### Potential Worksheets (not finished)
-
-- Online corpora and databases (A Genealogy of What)
-- Bibliography
-- Syllabus
-- Journal Landscape List the major journals in your field. Copy and paste the editorial
-  statement. Research the editorial board. What is a journal's history. Look at the inaugural
-issue.
-- Anatomy of a paper
-- Anatomy of a book
-- Visiting archives
-- Styles of conference presentation

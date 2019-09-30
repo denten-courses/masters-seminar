@@ -136,9 +136,11 @@ Theme, method, archive exercise.
 
 ### Week 6
 
-- Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel Trilling.
+- "[On the Modern Element in Modern Literature][71]" in *Partisan Review* 28.1 (1961), pages 9--35. Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel Trilling.
 - Selections from *Anatomy of Criticism* (1957) by Northrop Frye.
 - Selection from *The Rhetoric of Fiction* (1961) by Wayne Booth.
+
+[71]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
 
 ### Week 7
 

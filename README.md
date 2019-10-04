@@ -151,18 +151,20 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 8
 
-- Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1 (1973):
-  41–54.
 - "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
+- "[Illness as Metaphor][95]" by Susan Sontag in *The New York Review of Books*, January 1978.
 - ~~Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.~~
 - ~~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
   Frederic Jameson.~~
+- ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
+  (1973): 41–54~~.
 
 [92]: https://courseworks2.columbia.edu/courses/82199/files?
 [93]: https://archive.org/details/marxismliteraryc00eagl/page/n5
 [94]: https://courseworks2.columbia.edu/courses/82199/files
+[95]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 
 ### Week 9  
 

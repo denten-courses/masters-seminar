@@ -127,12 +127,13 @@ Theme, method, archive exercise.
   Warren.
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
-- Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *The Sewanee Review* 57, no. 1
+- Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
   (1949): 31–55.
 
 [61]: https://courseworks2.columbia.edu/files/5583246/download?download_frd=1
 [62]: https://archive.org/download/in.ernet.dli.2015.183272/2015.183272.The-Triple-Thinkers.pdf
 [63]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
+[64]: https://clio.columbia.edu/catalog/4843426
 
 ### Week 6
 

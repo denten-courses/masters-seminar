@@ -128,10 +128,11 @@ Theme, method, archive exercise.
 
 ### Week 5
 
+- Selections from John Crowe Ransom, *The New Criticism* (1941).
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
-- "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
-  Wilson.
+- ~"The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
+  Wilson.~
 - Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
   (1949): 31–55.
 

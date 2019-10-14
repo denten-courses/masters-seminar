@@ -131,7 +131,7 @@ Theme, method, archive exercise.
   (1949): 31–55.
 
 [61]: https://courseworks2.columbia.edu/files/5583246/download?download_frd=1
-[62]: https://archive.org/download/in.ernet.dli.2015.183272/2015.183272.The-Triple-Thinkers.pdf
+[62]: https://courseworks2.columbia.edu/files/6102628/download?download_frd=1
 [63]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
 [64]: https://clio.columbia.edu/catalog/4843426
 

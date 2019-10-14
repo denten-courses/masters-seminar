@@ -101,7 +101,9 @@ Theme, method, archive exercise.
 - "[Tradition and the Individual Talent][41]" by T.S. Eliot in *The Egoist* (September, 1919).
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
-  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43] (1929) by I.A. Richards.
+  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
+(1929) by I.A. Richards.
+- Selections from *The Province of Literary History* (1931) by Edwin Greenlaw.
 
 [41]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf

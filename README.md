@@ -1,5 +1,9 @@
 ## English and Comparative Literature Masters Seminar
-`Fall 2019 English GR5001 Section 002 Dennis Yi Tenen`
+
+```
+Fall 2019 English GR5001 Section 002 Dennis Yi Tenen
+Office Hours, Friday 11--1pm, Philosophy 408e (email to confirm availability)
+```
 
 This MA seminar (1) provides an episodic overview of developments in Anglophone literary
 studies, (2) introduces students to advanced research methods in the field, and (3) develops

@@ -137,42 +137,44 @@ Theme, method, archive exercise.
 
 ### Week 6
 
-- "[On the Modern Element in Modern Literature][71]" in *Partisan Review* 28.1 (1961), pages
+- "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
   9--35. Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel
 Trilling.
-- Fourth Essay in the [*Anatomy of Criticism*][72] (1957) by Northrop Frye.
+- Fourth Essay in the [*Anatomy of Criticism*][62] (1957) by Northrop Frye.
 - "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
-  Fiction*][73] (1961) by Wayne Booth.
+  Fiction*][63] (1961) by Wayne Booth.
 
-[71]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
-[72]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
-[73]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
+[61]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
+[62]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
+[63]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 
 ### Week 7
 
-- "On Style" and "Notes on Camp" by Susan Sontag (1966).
-- Hartman, Geoffrey. “[Beyond Formalism][85].” *MLN* 81, no. 5 (1966): 542–56.
-- Selections from Kate Millet, *Sexual Politics* (1970).
+- Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
+- Chapters 1, 2, and 4 in [*The Dynamics of Literary Response*][72] (1968) by Norman Holland.
+- Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).  
+- ~"On Style" and "Notes on Camp" by Susan Sontag (1966).~
 
-[85]:
-https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
+[71]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
+[72]: https://courseworks2.columbia.edu/courses/82199/files?preview=6117980
+[73]: https://courseworks2.columbia.edu/files/6118063/download?download_frd=1
 
 ### Week 8
 
-- "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
+- "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
-- "[Illness as Metaphor][95]" by Susan Sontag in *The New York Review of Books*, January 1978.
-- ~~Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.~~
-- ~~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+- "[Illness as Metaphor][85]" by Susan Sontag in *The New York Review of Books*, January 1978.
+- ~~Pages 1--8 and 264--306 in [*The Country and The City*][82] (1973) by Raymond Williams.~~
+- ~~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][84] (1981) by
   Frederic Jameson.~~
 - ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
   (1973): 41–54~~.
 
-[92]: https://courseworks2.columbia.edu/courses/82199/files?
-[93]: https://archive.org/details/marxismliteraryc00eagl/page/n5
-[94]: https://courseworks2.columbia.edu/courses/82199/files
-[95]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
+[82]: https://courseworks2.columbia.edu/courses/82199/files?
+[83]: https://archive.org/details/marxismliteraryc00eagl/page/n5
+[84]: https://courseworks2.columbia.edu/courses/82199/files
+[85]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 
 ### Week 9  
 

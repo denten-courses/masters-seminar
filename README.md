@@ -141,10 +141,12 @@ Theme, method, archive exercise.
   9--35. Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel
 Trilling.
 - Fourth Essay in the [*Anatomy of Criticism*][72] (1957) by Northrop Frye.
-- Selection from *The Rhetoric of Fiction* (1961) by Wayne Booth.
+- "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
+  Fiction*][73] (1961) by Wayne Booth.
 
 [71]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
 [72]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
+[73]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 
 ### Week 7
 

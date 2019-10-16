@@ -74,70 +74,71 @@ Theme, method, archive exercise.
 
 ### Week 1
 
-- "[The Experimental Novel][21] (1893), Émile Zola. Pages 1--56 in the linked volume.
+- "[The Experimental Novel][11] (1893), Émile Zola. Pages 1--56 in the linked volume.
 - "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
-  of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
-- "Literature and the College," in [*Literature and the American College*][22] (1908) by Irving
+  of Literature*][13] (1893) by L.A. Sherman, pages 281--302.
+- "Literature and the College," in [*Literature and the American College*][12] (1908) by Irving
   Babbitt, pages 88--117.
 
-[21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
-[22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
-[23]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
+[11]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
+[12]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
+[13]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
 
 ### Week 2
 
 - "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
-  Fiction*][31] (1908) by Clayton Meeker Hamilton.
-- Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][32] (1913)
+  Fiction*][21] (1908) by Clayton Meeker Hamilton.
+- Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][22] (1913)
   by Vernon Lee [Violet Paget].
-- "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz
+- "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][23] by Franz
   Boas.
 - Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan
-  Tragedy*][34] (1914) by Harriott Ely Fansler.
+  Tragedy*][24] (1914) by Harriott Ely Fansler.
 
-[31]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
-[32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
-[33]: https://archive.org/download/jstor-6151/6151.pdf
-[34]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
+[21]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
+[22]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
+[23]: https://archive.org/download/jstor-6151/6151.pdf
+[24]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
 
 ### Week 3
 
-- "[Tradition and the Individual Talent][41]" by T.S. Eliot in *The Egoist* (September, 1919).
-- Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
+- "[Tradition and the Individual Talent][31]" by T.S. Eliot in *The Egoist* (September, 1919).
+- Chapters I, II, XVII, and XVIII in the [Craft of Fiction][32] (1921) by Percy Lubbock.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
-  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43] (1929) by I.A. Richards.
+  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][33]
+(1929) by I.A. Richards.
 
-[41]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
-[42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
-[43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
-[44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf
+[31]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
+[32]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
+[33]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
 
 ### Week 4
 
 - Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
-- Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
-- "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
-  Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.
-- "[The Rhetoric of Hitler's 'Battle'][61]" (1939) reprinted in *The Philosophy of Literary
+- Introduction and Part I in [*Fiction and the Reading Public*][41] (1939) by Q.D. Leavis.
+- "[Folklore and Music][52]," "[Introduction to Mules and Men][43]," and "[What White Publishers
+  Won't Print][43]" circa 1930--1950s, by Zora Neale Hurston.
+- "[The Rhetoric of Hitler's 'Battle'][45]" (1939) reprinted in *The Philosophy of Literary
   Form* by Kenneth Burke.
 
-[51]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
-[52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
-[53]: https://archive.org/details/folklorememoirso00hurs/page/812
+[41]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
+[42]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
+[43]: https://archive.org/details/folklorememoirso00hurs/page/812
+[44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf
+[45]: https://courseworks2.columbia.edu/files/5583246/download?download_frd=1
 
 ### Week 5
 
-- Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
+- Pages 1--37 and 139--159 in [Theory of Literature][53] (1942) by Renee Wellek and Austin
   Warren.
-- "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
+- "The Historical Interpretation of Literature" in *[Triple Thinkers][52]* (1948) by Edmund
   Wilson.
-- Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
+- Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][54], no. 1
   (1949): 31–55.
 
-[61]: https://courseworks2.columbia.edu/files/5583246/download?download_frd=1
-[62]: https://courseworks2.columbia.edu/files/6102628/download?download_frd=1
-[63]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
-[64]: https://clio.columbia.edu/catalog/4843426
+[52]: https://courseworks2.columbia.edu/files/6102628/download?download_frd=1
+[53]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
+[54]: https://clio.columbia.edu/catalog/4843426
 
 ### Week 6
 

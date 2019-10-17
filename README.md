@@ -142,11 +142,13 @@ Theme, method, archive exercise.
 
 ### Week 6
 
-- "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
-  9--35 by Lionel Trilling.
 - Fourth Essay in the [*Anatomy of Criticism*][62] (1957) by Northrop Frye.
 - "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
   Fiction*][63] (1961) by Wayne Booth.
+- "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
+  9--35 by Lionel Trilling.\*
+
+<small>\*Available in digital format only. Take the time to brows contextual material.</small>
 
 [61]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
 [62]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086

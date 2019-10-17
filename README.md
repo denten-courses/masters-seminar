@@ -146,7 +146,7 @@ Theme, method, archive exercise.
 - "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
   Fiction*][63] (1961) by Wayne Booth.
 - "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
-  9--35 by Lionel Trilling.<sup>*</sup>
+  9--35 by Lionel Trilling.\*
 
 \*<sub>Available in digital format only. Take the time to brows contextual material.</sub>
 

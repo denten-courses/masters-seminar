@@ -143,8 +143,7 @@ Theme, method, archive exercise.
 ### Week 6
 
 - "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
-  9--35. Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel
-Trilling.
+  9--35 by Lionel Trilling.
 - Fourth Essay in the [*Anatomy of Criticism*][62] (1957) by Northrop Frye.
 - "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
   Fiction*][63] (1961) by Wayne Booth.

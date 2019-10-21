@@ -115,6 +115,7 @@ Theme, method, archive exercise.
 ### Week 4
 
 - Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
+- John Crowe Ransom, "Criticism, Inc." (1937).
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.

@@ -148,7 +148,7 @@ Theme, method, archive exercise.
 - "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
   9--35 by Lionel Trilling.\*
 
-\*<sub>Available in digital format only. Take the time to brows contextual material.</sub>
+\*<sub>Available in digital format only. Take the time to browse contextual material.</sub>
 
 [61]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
 [62]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086

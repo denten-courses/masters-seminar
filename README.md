@@ -178,7 +178,7 @@ Theme, method, archive exercise.
   (1973): 41–54~~.
 
 [82]: https://courseworks2.columbia.edu/courses/82199/files?
-[83]: https://archive.org/details/marxismliteraryc00eagl/page/n5
+[83]: https://courseworks2.columbia.edu/courses/82199/files?preview=6337990
 [84]: https://courseworks2.columbia.edu/courses/82199/files
 [85]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 

@@ -154,8 +154,7 @@ Theme, method, archive exercise.
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
 - Chapter 1, "Literature as Transformation," in [*The Dynamics of Literary Response*][72]
   (1968) by Norman Holland.
-- Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).  
-- ~"On Style" and "Notes on Camp" by Susan Sontag (1966).~
+- Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).  Pick another chapter.
 
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents

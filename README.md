@@ -201,10 +201,11 @@ Theme, method, archive exercise.
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary History*
   21, no. 4 (1990): 867–96.
 - Alcoff, Linda. “[The Problem of Speaking for Others][112].” *Cultural Critique*, no. 20 (1991): 5–32.
-- Selections from *Culture and Imperialism* (1993) by Edward Said.
+- Chapter 1 from [*Culture and Imperialism*][113] (1993) by Edward Said.
 
 [111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
 [112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
+[113]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
 
 ### Week 11
 

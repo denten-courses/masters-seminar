@@ -72,12 +72,11 @@ Theme, method, archive exercise.
 
 
 - ~~"[The Experimental Novel][21] (1893), Émile Zola. Pages 1--56 in the linked volume.~~
-- Add Taine
+- Add Taine and Frazer's Golden Bough.
 - Spencer, "Philosophy of Style."
 - "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
   of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
-- "Literature and the College," in [*Literature and the American College*][22] (1908) by Irving
-  Babbitt, pages 88--117.
+- ~~"Literature and the College," in [*Literature and the American College*][22] (1908) by Irving Babbitt, pages 88--117.~~
 
 [21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
@@ -116,6 +115,7 @@ Theme, method, archive exercise.
 ### Week 4
 
 - Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
+- John Crowe Ransom, "Criticism, Inc." (1937).
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.

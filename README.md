@@ -194,8 +194,7 @@ Theme, method, archive exercise.
 [101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
 [103]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
-[104]: https://courseworks2.columbia.edu/courses/82199/files?preview=5815560
-
+[104]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
 ### Week 10
 
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary History*

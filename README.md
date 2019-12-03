@@ -226,5 +226,6 @@ Theme, method, archive exercise.
 
 [121]: https://courseworks2.columbia.edu/files/6554119/download?download_frd=1 [122]:
 https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
-[123]:
-https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents
+[123]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents
+
+**Final Presentations on Friday, December 13th, Philosophy Hall 612**

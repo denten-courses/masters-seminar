@@ -208,10 +208,10 @@ Theme, method, archive exercise.
 
 ### Week 11
 
-- Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.
-- Selections from *A History of the Modern Fact* (1998) by Mary Poovey.
-- "The Touch of the Real" in [Practicing New Historicism][121] (2000) by Catherine Gallagher
-  and Stephen Greenblatt.
+- ~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~
+- ~Selections from *A History of the Modern Fact* (1998) by Mary Poovey.~
+- ~"The Touch of the Real" in [Practicing New Historicism][121] (2000) by Catherine Gallagher
+  and Stephen Greenblatt.~
 
 [121]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 

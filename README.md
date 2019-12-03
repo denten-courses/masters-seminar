@@ -167,7 +167,7 @@ Theme, method, archive exercise.
 
 ### Week 8
 
-- "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
+- "Chapter 1: Literature and History" and "Chapter 4: The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
 - "[Illness as Metaphor][85]" by Susan Sontag in *The New York Review of Books*, January 1978.
@@ -218,16 +218,14 @@ Theme, method, archive exercise.
 
 ### Week 12
 
-- "Translating into English" (2005) by Gayatri Spivak.
-- Selections from *Literary Reading: Empirical and Theoretical Studies* (2006) by David Miall.
-- Selections from *Feeling Backward Loss and the Politics of Queer History* (2007) by Heather
-  Love.
+- "The Burden of English" in [*Aesthetic Education in the Era of Globalization*][121] (2005) by
+  Gayatri Spivak.
+- "Audiences and Publics" in [*The Anthropology of Texts, Persons and Publics*][122] (2007) by
+  Karin Barber.
+- Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
+  Literary History 41, no. 2 (2010): 371-91.
 
-### Week 13
-
-- Selection from *The Fall of Language in the Age of English* (2015) by Minae Mizumura.
-- English, James F. “Now, Not Now: Counting Time in Contemporary Fiction Studies.” *Modern
-  Language Quarterly* 77, no. 3 (September 1, 2016): 395–418.
-- "[Nothing is Hidden][145]" by Toril Moi in *Critique and Postcritique* (2017).
-
-[145]: https://courseworks2.columbia.edu/courses/82199/files?
+[121]: https://courseworks2.columbia.edu/files/6554119/download?download_frd=1 [122]:
+https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
+[123]:
+https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents

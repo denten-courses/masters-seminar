@@ -213,7 +213,7 @@ Theme, method, archive exercise.
 - ~"The Touch of the Real" in [Practicing New Historicism][121] (2000) by Catherine Gallagher
   and Stephen Greenblatt.~
 
-[121]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
+[111]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 
 ### Week 12
 

@@ -71,12 +71,10 @@ Theme, method, archive exercise.
 ### Week 1
 
 
-- ~~"[The Experimental Novel][21] (1893), Émile Zola. Pages 1--56 in the linked volume.~~
 - Add Taine and Frazer's Golden Bough.
 - Spencer, "Philosophy of Style."
 - "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
   of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
-- ~~"Literature and the College," in [*Literature and the American College*][22] (1908) by Irving Babbitt, pages 88--117.~~
 
 [21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
@@ -106,6 +104,7 @@ Theme, method, archive exercise.
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.
 - Selections from *The Province of Literary History* (1931) by Edwin Greenlaw.
+- Ezra Pound, ABC of Reading
 
 [41]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
@@ -128,11 +127,12 @@ Theme, method, archive exercise.
 
 ### Week 5
 
-- Selections from John Crowe Ransom, *The New Criticism* (1941).
+- ~Selections from John Crowe Ransom, *The New Criticism* (1941).~
+- *To Make a Poet Black* by J. Saunders Redding.
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
-- ~"The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
-  Wilson.~
+- "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
+  Wilson.
 - Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
   (1949): 31–55.
 

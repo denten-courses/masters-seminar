@@ -65,17 +65,15 @@ minimum.
 
 ### Week 0
 
-Introductions, class requirements. Course goals. Research vs. criticism and pedagogy.
+Introductions, class requirements. Course goals. Research vs. criticism and pedagogy. By decade
+sign-up.
 
 - “The Function of Criticism at the Present Time” (pages 9--36) in [*Essays in Criticism*][13]
   (1865) by Matthew Arnold.
 - "Introduction" to the [*History of English Literature*][11] (pages 1--22) by Hippolyte Taine,
   trans. John Fiske 1872.
-- "English Philology and English Literature in American Universities" by Henry E. Shepherd in The Sewanee Review
-Vol. 1, No. 2 (Feb., 1893), pp. 153-160.
-- Chapter 10 (pages 254--273), "'Painstaking Research Quite Equal to Mathematical Physics':
-  Literature, 1860–1920" (pp. 254-273) in [*Philology: The Forgotten Origins of the Modern
-Humanities*][12] (2014) by James Turner.
+- "English Philology and English Literature in American Universities" by Henry E. Shepherd in
+  [The Sewanee Review][14] Vol. 1, No. 2 (Feb., 1893), pp. 153-160.
 
 Explore: Transactions of the American Philological Association (1869-1896) in JSTOR. For one of
 your posts
@@ -83,6 +81,7 @@ your posts
 [11]: https://archive.org/download/historyenglishl12laungoog/historyenglishl12laungoog.pdf
 [12]: https://courseworks2.columbia.edu/courses/104410/files?preview=8433868
 [13]: https://archive.org/download/essaysbymatthew00arnogoog/essaysbymatthew00arnogoog.pdf
+[14]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27527739?Search=yes&resultItemClick=true&searchText=English+Philology+and+English+Literature+in+American+Universities&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DEnglish%2BPhilology%2Band%2BEnglish%2BLiterature%2Bin%2BAmerican%2BUniversities&ab_segments=0%2Fbasic_search%2Fcontrol&refreqid=fastly-default%3A61c748b332389454f9eecdf961052610&seq=1#metadata_info_tab_contents
 
 ### Week 1
 
@@ -92,6 +91,9 @@ your posts
   Fiction*][24] (1908) by Clayton Meeker Hamilton.
 - Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][25] (1913)
   by Vernon Lee [Violet Paget].
+- Chapter 10 (pages 254--273), "'Painstaking Research Quite Equal to Mathematical Physics':
+  Literature, 1860–1920" (pp. 254-273) in [*Philology: The Forgotten Origins of the Modern
+Humanities*][12] (2014) by James Turner.
 
 [21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
@@ -114,6 +116,7 @@ your posts
 ### Week 3
 
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
+- Selections from *Aspects of the Novel* (1927), by EM Forester.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.
@@ -146,8 +149,9 @@ your posts
   Warren.
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
-- Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
-  (1949): 31–55.
+- Wimsatt, W. K.; Beardsley, M. C. (1946). "The Intentional Fallacy". The Sewanee Review. 54 (3): 468–488.
+- ~~Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
+  (1949): 31–55.~~
 
 [61]: https://courseworks2.columbia.edu/files/5583246/download?download_frd=1
 [62]: https://courseworks2.columbia.edu/files/6102628/download?download_frd=1
@@ -156,11 +160,17 @@ your posts
 
 ### Week 6
 
-- "[On the Modern Element in Modern Literature][71]" in *Partisan Review* 28.1 (1961), pages 9--35. Selections from *The Opposing Self: Nine Essays in Criticism* (1955) by Lionel Trilling.
-- Selections from *Anatomy of Criticism* (1957) by Northrop Frye.
-- Selection from *The Rhetoric of Fiction* (1961) by Wayne Booth.
+- Fourth Essay in the [*Anatomy of Criticism*][62] (1957) by Northrop Frye.
+- "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
+  Fiction*][63] (1961) by Wayne Booth.
+- "[On the Modern Element in Modern Literature][61]" in *Partisan Review* 28.1 (1961), pages
+  9--35 by Lionel Trilling.\*
 
-[71]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
+\*<sub>Available in digital format only. Take the time to browse contextual material.</sub>
+
+[61]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
+[62]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
+[63]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 
 ### Week 7
 
@@ -168,6 +178,7 @@ your posts
 - Chapter 1, "Literature as Transformation," in [*The Dynamics of Literary Response*][72]
   (1968) by Norman Holland.
 - Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).  Pick another chapter.
+- ~"On Style" and "Notes on Camp" by Susan Sontag (1966).~
 
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
@@ -194,28 +205,30 @@ take advantage of the short break from classes.
 [94]: https://courseworks2.columbia.edu/courses/82199/files
 [95]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 
-### Week 9  
+### Week 9
 
 - Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
   (1981): 179–205.
 - ~~De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3--20.~~
-- "Metaphor, Metonymy, and Voice in Their Eyes are Watching God" (1989) by Barbara Johnson.
+- "[Metaphor, Metonymy, and Voice in Their Eyes are Watching God][104]" (1989) by Barbara Johnson.
 - "Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
   African-American Literary Criticism*][103] (1988) by Henry Louis Gates.
 
 [101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
 [103]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
+[104]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
 
 ### Week 10
 
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary History*
   21, no. 4 (1990): 867–96.
 - Alcoff, Linda. “[The Problem of Speaking for Others][112].” *Cultural Critique*, no. 20 (1991): 5–32.
-- Selections from *Culture and Imperialism* (1993) by Edward Said.
+- Chapter 1 from [*Culture and Imperialism*][113] (1993) by Edward Said.
 
 [111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
 [112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
+[113]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
 
 ### Week 11
 
@@ -228,10 +241,16 @@ take advantage of the short break from classes.
 
 ### Week 12
 
-- "Translating into English" (2005) by Gayatri Spivak.
-- Selections from *Literary Reading: Empirical and Theoretical Studies* (2006) by David Miall.
-- Selections from *Feeling Backward Loss and the Politics of Queer History* (2007) by Heather
-  Love.
+- "The Burden of English" in [*Aesthetic Education in the Era of Globalization*][121] (2005) by
+  Gayatri Spivak.
+- "Audiences and Publics" in [*The Anthropology of Texts, Persons and Publics*][122] (2007) by
+  Karin Barber.
+- Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
+  Literary History 41, no. 2 (2010): 371-91.
+
+[121]: https://courseworks2.columbia.edu/files/6554119/download?download_frd=1 
+[122]: https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
+[123]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents
 
 ### Week 13
 
@@ -241,8 +260,3 @@ take advantage of the short break from classes.
 - "[Nothing is Hidden][145]" by Toril Moi in *Critique and Postcritique* (2017).
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?
-
-Add Brander Matthews, Eric Fromm
-Critics Inc. Ransom
-Intentional Fallacy
-Aspects of the Novel E.M. Forester

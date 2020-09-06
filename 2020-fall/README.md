@@ -1,5 +1,5 @@
 ## English and Comparative Literature Masters Seminar
-`Fall 2019 English GR5001 Section 002 Dennis Yi Tenen`
+`Fall 2020 English GR5001 Section 001 Dennis Yi Tenen`
 
 This MA seminar (1) provides an episodic overview of developments in Anglophone literary
 studies, (2) introduces students to advanced research methods in the field, and (3) develops
@@ -22,7 +22,7 @@ organizing, writing, editing, and bringing your projects to completion.
 
 **Grading Requirements**
 
-- 25% Participation (class + online)
+- 25% Participation (spoken + written)
 - 50% Written Assignments
 - 25% Final Presentation
 
@@ -31,8 +31,8 @@ organizing, writing, editing, and bringing your projects to completion.
 - We will seek to create a respectful and supportive environment for our community. Consult the
   xpMethods [lab-culture][1] document for core principles.
 
-- Please *bring a paper copy* of each reading to the class. The use of electronic devices will
-be limited to specific exercises.
+- ~~Please *bring a paper copy* of each reading to the class to the extent possible. The use of
+  electronic devices will be limited to specific exercises.~~
 
 - Links to most readings will be provided. However, you are ultimately responsible for
   procuring the reading materials. Whenever possible, seek documents *in context* of their
@@ -55,52 +55,64 @@ minimum.
 
 **Locations**
 
-- Northwest Corner 502
 - [Courseworks][3]
 - [Piazza][4]
-- Office hours at Philosophy 408b by appointment.
+- Office hours by appointment.
+- Occasional walk in the park, starting from campus.
 
 [3]: https://courseworks2.columbia.edu/courses/82199
 [4]: https://piazza.com/class/k05vu86a8864vy
 
 ### Week 0
 
-Introductions, goals, class requirements. Limitations of the format. Our ways of reading.
-Theme, method, archive exercise.
+Introductions, class requirements. Course goals. Research vs. criticism and pedagogy.
+
+- “The Function of Criticism at the Present Time” (pages 9--36) in [*Essays in Criticism*][13]
+  (1865) by Matthew Arnold.
+- "Introduction" to the [*History of English Literature*][11] (pages 1--22) by Hippolyte Taine,
+  trans. John Fiske 1872.
+- "English Philology and English Literature in American Universities" by Henry E. Shepherd in The Sewanee Review
+Vol. 1, No. 2 (Feb., 1893), pp. 153-160.
+- Chapter 10 (pages 254--273), "'Painstaking Research Quite Equal to Mathematical Physics':
+  Literature, 1860–1920" (pp. 254-273) in [*Philology: The Forgotten Origins of the Modern
+Humanities*][12] (2014) by James Turner.
+
+Explore: Transactions of the American Philological Association (1869-1896) in JSTOR. For one of
+your posts
+
+[11]: https://archive.org/download/historyenglishl12laungoog/historyenglishl12laungoog.pdf
+[12]: https://courseworks2.columbia.edu/courses/104410/files?preview=8433868
+[13]: https://archive.org/download/essaysbymatthew00arnogoog/essaysbymatthew00arnogoog.pdf
 
 ### Week 1
 
-
-- Add Taine and Frazer's Golden Bough.
-- Spencer, "Philosophy of Style."
 - "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
   of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
-- Brander Matthews
-- Matthew Arnold “The Function of Criticism at the Present Time” (1864)
+- "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
+  Fiction*][24] (1908) by Clayton Meeker Hamilton.
+- Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][25] (1913)
+  by Vernon Lee [Violet Paget].
 
 [21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
 [23]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
+[24]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
+[25]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
 
 ### Week 2
 
-- "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
-  Fiction*][31] (1908) by Clayton Meeker Hamilton.
-- Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][32] (1913)
-  by Vernon Lee [Violet Paget].
 - "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz
   Boas.
 - Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan
   Tragedy*][34] (1914) by Harriott Ely Fansler.
+- "[Tradition and the Individual Talent][35]" by T.S. Eliot in *The Egoist* (September, 1919).
 
-[31]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
-[32]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
 [33]: https://archive.org/download/jstor-6151/6151.pdf
 [34]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
+[35]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 
 ### Week 3
 
-- "[Tradition and the Individual Talent][41]" by T.S. Eliot in *The Egoist* (September, 1919).
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
@@ -108,7 +120,6 @@ Theme, method, archive exercise.
 - Selections from *The Province of Literary History* (1931) by Edwin Greenlaw.
 - Ezra Pound, ABC of Reading
 
-[41]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
 [44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf
@@ -160,6 +171,11 @@ Theme, method, archive exercise.
 
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
+
+!!! Election Day: The four day “Election Break” was established by the Columbia University Senate
+in October 1970 to permit students and faculty to work on the elections in their home districts
+or elsewhere. I honor that original intention and encourage you to consider how you can best
+take advantage of the short break from classes.
 
 ### Week 8
 

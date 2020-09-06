@@ -55,13 +55,14 @@ minimum.
 
 **Locations**
 
+- Zoom
 - [Courseworks][3]
 - [Piazza][4]
 - Office hours by appointment.
 - Occasional walk in the park, starting from campus.
 
-[3]: https://courseworks2.columbia.edu/courses/82199
-[4]: https://piazza.com/class/k05vu86a8864vy
+[3]: https://courseworks2.columbia.edu/courses/104410
+[4]: https://piazza.com/class/kergvvyporo3tx
 
 ### Week 0
 

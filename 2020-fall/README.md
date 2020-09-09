@@ -43,10 +43,13 @@ interests.
   for the entirety of the material. Pursue your curiosity by expanding the selection to cover
 TOCs, introductions, and conclusions.
 
-- When not feeling well, you have the option to engage from home. Rest and recover before
+- ~~When not feeling well, you have the option to engage from home. Rest and recover before
   coming back to class, especially during the flu season. There is no penalty for doing so. An
 absence for any reason can always be remedied through online participation above the weekly
-minimum.
+minimum.~~
+
+- Our class will be conducted online via zoom and in person, depending on the circumstances.
+You will always have the option to participate remotely.
 
 - Consult Columbia's guidelines on [Academic Integrity and Responsible Conduct of Research][2].
 
@@ -76,8 +79,9 @@ sign-up.
 - "English Philology and English Literature in American Universities" by Henry E. Shepherd in
   [The Sewanee Review][14] Vol. 1, No. 2 (Feb., 1893), pp. 153-160.
 
-Explore: Transactions of the American Philological Association (1869-1896) in JSTOR. For one of
-your posts
+Explore: *The Transactions of the American Philological Association* (1869-1896) in JSTOR. Pick an
+issue and browse through the articles. Post to our discussion board reflecting briefly on your
+impressions.
 
 [11]: https://archive.org/download/historyenglishl12laungoog/historyenglishl12laungoog.pdf
 [12]: https://courseworks2.columbia.edu/courses/104410/files?preview=8433868

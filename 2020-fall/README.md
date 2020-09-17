@@ -215,13 +215,14 @@ take advantage of the short break from classes.
 
 ### Week 9
 
-- Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
-  (1981): 179–205.
+-- "Infection in the Sentence: The Woman Writer and the Anxiety of Authorship" in the *The
+Madwoman in the Attic* (1979) by Sandra Gilbert and Susan Gubar.
+- ~~Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
+  (1981): 179–205.~~
 - ~~De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3--20.~~
 - "[Metaphor, Metonymy, and Voice in Their Eyes are Watching God][104]" (1989) by Barbara Johnson.
-Mama's Baby, Papa's Maybe: An American Grammar Book
-- "Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
-  African-American Literary Criticism*][103] (1988) by Henry Louis Gates.
+- ~~"Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
+  African-American Literary Criticism*][103] (1988) by Henry Louis Gates.~~
 - "Mama's Baby, Papa's Maybe: An American Grammar Book" by Hortense J. Spillers in *Diacritics*
 Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 1987), pp. 64-81.
 

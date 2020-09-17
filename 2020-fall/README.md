@@ -238,7 +238,9 @@ take advantage of the short break from classes.
 
 ### Week 11
 
-- Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.
+- ~~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~~
+- "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This
+   Introduction is About You" in  *Novel Gazing: Queer Readings in Fiction* (1997) by Eve Kosofsky Sedgwick
 - Selections from *A History of the Modern Fact* (1998) by Mary Poovey.
 - "The Touch of the Real" in [Practicing New Historicism][121] (2000) by Catherine Gallagher
   and Stephen Greenblatt.

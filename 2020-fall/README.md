@@ -58,6 +58,7 @@ You will always have the option to participate remotely.
 
 **Locations**
 
+- ~~Occasional meetings in 201D Philosophy Hall~~
 - Zoom
 - [Courseworks][3]
 - [Piazza][4]
@@ -248,10 +249,9 @@ take advantage of the short break from classes.
 
 - "The Burden of English" in [*Aesthetic Education in the Era of Globalization*][121] (2005) by
   Gayatri Spivak.
+- Selections from *Ugly Feelings* (2007) by Sianne Ngai.
 - "Audiences and Publics" in [*The Anthropology of Texts, Persons and Publics*][122] (2007) by
   Karin Barber.
-- Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
-  Literary History 41, no. 2 (2010): 371-91.
 
 [121]: https://courseworks2.columbia.edu/files/6554119/download?download_frd=1 
 [122]: https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
@@ -259,9 +259,11 @@ take advantage of the short break from classes.
 
 ### Week 13
 
+- Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
+  Literary History 41, no. 2 (2010): 371-91.
 - Selection from *The Fall of Language in the Age of English* (2015) by Minae Mizumura.
 - English, James F. “Now, Not Now: Counting Time in Contemporary Fiction Studies.” *Modern
   Language Quarterly* 77, no. 3 (September 1, 2016): 395–418.
-- "[Nothing is Hidden][145]" by Toril Moi in *Critique and Postcritique* (2017).
+- Selections from *Wayward Lives, Beautiful Experiments* (2019) by Saidiya Hartman.
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?

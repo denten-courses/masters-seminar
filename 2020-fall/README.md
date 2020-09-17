@@ -127,11 +127,13 @@ Humanities*][12] (2014) by James Turner.
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.
 - Selections from *The Province of Literary History* (1931) by Edwin Greenlaw.
+- "[Values and Imperatives][45]" (~1930s) by Alain LeRoy Locke.
 - ~~Ezra Pound, ABC of Reading~~
 
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
 [44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf
+[45]: https://courseworks2.columbia.edu/courses/104410/files?preview=8554664
 
 ### Week 4
 

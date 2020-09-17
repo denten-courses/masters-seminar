@@ -122,7 +122,7 @@ Humanities*][12] (2014) by James Turner.
 ### Week 3
 
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
-- Selections from *Aspects of the Novel* (1927), by EM Forester.
+- ~~Selections from *Aspects of the Novel* (1927), by EM Forester.~~
 - Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
   and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.

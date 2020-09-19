@@ -58,7 +58,7 @@ You will always have the option to participate remotely.
 
 **Locations**
 
-- ~~Occasional meetings in 201D Philosophy Hall~~
+- Occasional meetings in 301 Hamilton Hall
 - Zoom
 - [Courseworks][3]
 - [Piazza][4]

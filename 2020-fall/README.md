@@ -113,11 +113,13 @@ Humanities*][12] (2014) by James Turner.
   Boas.
 - Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan
   Tragedy*][34] (1914) by Harriott Ely Fansler.
-- "[Tradition and the Individual Talent][35]" by T.S. Eliot in *The Egoist* (September, 1919).
+- "Tradition and the Individual Talent" by T.S. Eliot, [Part I][35] in *The Egoist* (September,
+  1919) and Part II in No. 5 Vol. VI, December, 1919.
 
 [33]: https://archive.org/download/jstor-6151/6151.pdf
 [34]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
 [35]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
+[36]: https://modjourn.org/issue/bdr:523006/
 
 ### Week 3
 

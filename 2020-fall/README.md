@@ -125,8 +125,8 @@ Humanities*][12] (2014) by James Turner.
 
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
 - "[Values and Imperatives][45]" (~1930s) by Alain LeRoy Locke.
-- Part I, Introductory, pages 1--20; Part II, Poem 1; Part III, Chapter V: Irrelevant
-Associations and Stock Responses in [*Practical Criticism: A Study of Literary Judgement*][43]
+- Part I, "Introductory", pages 1--20; Part II, "Poem 1"; Part III, Chapter V: "Irrelevant
+Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*Practical Criticism: A Study of Literary Judgement*][43]
 (1929) by I.A. Richards.
 - ~~Selections from *Aspects of the Novel* (1927), by EM Forester.~~
 - ~~Selections from *The Province of Literary History* (1931) by Edwin Greenlaw.~~

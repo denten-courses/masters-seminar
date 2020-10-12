@@ -124,12 +124,15 @@ Humanities*][12] (2014) by James Turner.
 ### Week 3
 
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
-- Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
-  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
-(1929) by I.A. Richards.
 - "[Values and Imperatives][45]" (~1930s) by Alain LeRoy Locke.
+- Part I, Introductory, pages 1--20; Part II, Poem 1; Part III, Chapter V: Irrelevant
+Associations and Stock Responses in [*Practical Criticism: A Study of Literary Judgement*][43]
+(1929) by I.A. Richards.
 - ~~Selections from *Aspects of the Novel* (1927), by EM Forester.~~
 - ~~Selections from *The Province of Literary History* (1931) by Edwin Greenlaw.~~
+- ~~Part III, Chapter I-IV including "The Four Kinds of Meaning," "Figurative Language," "Sense
+  and Feeling," and "Poetic Form" in [*Practical Criticism: A Study of Literary Judgement*][43]
+(1929) by I.A. Richards.~~
 
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf

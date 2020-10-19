@@ -156,13 +156,12 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 
 ### Week 5
 
-- ~Selections from John Crowe Ransom, *The New Criticism* (1941).~
-- *To Make a Poet Black* by J. Saunders Redding.
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
 - Wimsatt, W. K.; Beardsley, M. C. (1946). "The Intentional Fallacy". The Sewanee Review. 54 (3): 468–488.
+- ~~Selections from John Crowe Ransom, *The New Criticism* (1941).~~
 - ~~Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
   (1949): 31–55.~~
 

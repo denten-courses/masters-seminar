@@ -142,7 +142,7 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 ### Week 4
 
 - Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.
-- John Crowe Ransom, "Criticism, Inc." (1937).
+- John Crowe Ransom, "[Criticism, Inc.][54]" (1937).
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.
@@ -152,6 +152,7 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 [51]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
 [52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
 [53]: https://archive.org/details/folklorememoirso00hurs/page/812
+[54]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/26434018?Search=yes&resultItemClick=true&searchText=criticism+inc&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dcriticism%2Binc%26acc%3Don%26wc%3Don%26fc%3Doff%26group%3Dnone&ab_segments=0%2Fbasic_search_SYC-5462%2Fcontrol&refreqid=fastly-default%3A988e03d755a05e0011212c9681829aaa&seq=1#metadata_info_tab_contents
 
 ### Week 5
 

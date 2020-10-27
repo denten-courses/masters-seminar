@@ -184,6 +184,12 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 [62]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
 [63]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 
+!!! Election Day: The four day “Election Break” was established by the Columbia University Senate
+in October 1970 to permit students and faculty to work on the elections in their home districts
+or elsewhere. I honor that original intention and encourage you to consider how you can best
+take advantage of the short break from classes. Please continue your reading for this week as
+usual. We will be discussing the Week 6 readings alongside those in Week 7.
+
 ### Week 7
 
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
@@ -195,10 +201,6 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
 
-!!! Election Day: The four day “Election Break” was established by the Columbia University Senate
-in October 1970 to permit students and faculty to work on the elections in their home districts
-or elsewhere. I honor that original intention and encourage you to consider how you can best
-take advantage of the short break from classes.
 
 ### Week 8
 

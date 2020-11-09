@@ -201,6 +201,7 @@ usual. We will be discussing the Week 6 readings alongside those in Week 7.
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
 [71]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1
+[72]: https://courseworks2.columbia.edu/courses/82199/files?preview=6117980
 
 
 ### Week 8

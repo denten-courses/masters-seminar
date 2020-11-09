@@ -172,17 +172,17 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 
 ### Week 6
 
-- Fourth Essay in the [*Anatomy of Criticism*][62] (1957) by Northrop Frye.
+- Fourth Essay in the [*Anatomy of Criticism*][622] (1957) by Northrop Frye.
 - "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
-  Fiction*][63] (1961) by Wayne Booth.
+  Fiction*][633] (1961) by Wayne Booth.
 - "[On the Modern Element in Modern Literature][611]" in *Partisan Review* 28.1 (1961), pages
   9--35 by Lionel Trilling.\*
 
 \*<sub>Available in digital format only. Take the time to browse contextual material.</sub>
 
 [611]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
-[62]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
-[63]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
+[622]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
+[633]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 
 !!! Election Day: The four day “Election Break” was established by the Columbia University Senate
 in October 1970 to permit students and faculty to work on the elections in their home districts

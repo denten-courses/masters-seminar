@@ -195,7 +195,7 @@ usual. We will be discussing the Week 6 readings alongside those in Week 7.
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
 - Chapter 1, "Literature as Transformation," in [*The Dynamics of Literary Response*][72]
   (1968) by Norman Holland.
-- Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).  Pick another chapter.
+- Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).
 - ~"On Style" and "Notes on Camp" by Susan Sontag (1966).~
 
 [85]:

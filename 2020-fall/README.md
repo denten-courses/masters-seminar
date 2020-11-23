@@ -160,7 +160,7 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
   Warren.
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
-- Wimsatt, W. K.; Beardsley, M. C. (1946). "The Intentional Fallacy". The Sewanee Review. 54 (3): 468–488.
+- Wimsatt, W. K.; Beardsley, M. C. (1946). "[The Intentional Fallacy][65]". The Sewanee Review. 54 (3): 468–488.
 - ~~Selections from John Crowe Ransom, *The New Criticism* (1941).~~
 - ~~Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
   (1949): 31–55.~~
@@ -169,6 +169,7 @@ Associations and Stock Responses"; and Part IV, "Culture in the Protocols" in [*
 [62]: https://courseworks2.columbia.edu/files/6102628/download?download_frd=1
 [63]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
 [64]: https://clio.columbia.edu/catalog/4843426
+[65]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27537676?casa_token=W8pW7wsnBk0AAAAA%3AzjICCE2RYuMByNFXMGOSke1VjU7kkqivtO-5OOtxWew7MEQW64aOnu2llZybvoSfsGI8G_ZXODNE_HrCKDrT2xSrOwpx2baQ1OsO6N2T-7ImSMQVxw&seq=1#metadata_info_tab_contents
 
 ### Week 6
 

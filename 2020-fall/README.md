@@ -224,7 +224,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 9
 
-- "Infection in the Sentence: The Woman Writer and the Anxiety of Authorship" in the *The
+- "[Infection in the Sentence: The Woman Writer and the Anxiety of Authorship][105]" in the *The
 Madwoman in the Attic* (1979) by Sandra Gilbert and Susan Gubar.
 - ~~Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
   (1981): 179–205.~~

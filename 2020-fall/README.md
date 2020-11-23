@@ -239,6 +239,7 @@ Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 19
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
 [103]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
 [104]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
+[105]: https://www-degruyter-com.ezproxy.cul.columbia.edu/yaleup/abstract/book/9780300252972/10.12987/9780300252972-004.xml
 
 ### Week 10
 

@@ -208,61 +208,63 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 8
 
-- "The Author as Producer" in [*Marxism and Literary Criticism*][93] by Terry Eagleton (1976).
+- "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
-- "[Illness as Metaphor][95]" by Susan Sontag in *The New York Review of Books*, January 1978.
-- ~~Pages 1--8 and 264--306 in [*The Country and The City*][92] (1973) by Raymond Williams.~~
+- "[Illness as Metaphor][85]" by Susan Sontag in *The New York Review of Books*, January 1978.
+- ~~Pages 1--8 and 264--306 in [*The Country and The City*][82] (1973) by Raymond Williams.~~
 - ~~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
   Frederic Jameson.~~
 - ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
   (1973): 41–54~~.
 
-[92]: https://courseworks2.columbia.edu/courses/82199/files?
-[93]: https://archive.org/details/marxismliteraryc00eagl/page/n5
-[94]: https://courseworks2.columbia.edu/courses/82199/files
-[95]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
+[82]: https://courseworks2.columbia.edu/courses/82199/files?
+[83]: https://archive.org/details/marxismliteraryc00eagl/page/n5
+[84]: https://courseworks2.columbia.edu/courses/82199/files
+[85]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 
 ### Week 9
 
 - "[Infection in the Sentence: The Woman Writer and the Anxiety of Authorship][105]" in the *The
 Madwoman in the Attic* (1979) by Sandra Gilbert and Susan Gubar.
-- ~~Showalter, Elaine. “[Feminist Criticism in the Wilderness][101].” *Critical Inquiry* 8, no. 2
+- ~~Showalter, Elaine. “[Feminist Criticism in the Wilderness][91].” *Critical Inquiry* 8, no. 2
   (1981): 179–205.~~
-- ~~De Man, Paul. “[The Resistance to Theory][102].” Yale French Studies, no. 63 (1982): 3--20.~~
-- "[Metaphor, Metonymy, and Voice in Their Eyes are Watching God][104]" (1989) by Barbara Johnson.
+- ~~De Man, Paul. “[The Resistance to Theory][92].” Yale French Studies, no. 63 (1982): 3--20.~~
+- "[Metaphor, Metonymy, and Voice in Their Eyes are Watching God][94]" (1989) by Barbara Johnson.
 - ~~"Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
-  African-American Literary Criticism*][103] (1988) by Henry Louis Gates.~~
+  African-American Literary Criticism*][93] (1988) by Henry Louis Gates.~~
 - "Mama's Baby, Papa's Maybe: An American Grammar Book" by Hortense J. Spillers in *Diacritics*
 Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 1987), pp. 64-81.
 
-[101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
-[102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
-[103]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
-[104]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
-[105]: https://www-degruyter-com.ezproxy.cul.columbia.edu/yaleup/abstract/book/9780300252972/10.12987/9780300252972-004.xml
+[91]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
+[92]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
+[93]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
+[94]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
+[95]: https://www-degruyter-com.ezproxy.cul.columbia.edu/yaleup/abstract/book/9780300252972/10.12987/9780300252972-004.xml
 
 ### Week 10
 
-- Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary History*
+- Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][101].” *New Literary History*
   21, no. 4 (1990): 867–96.
-- Alcoff, Linda. “[The Problem of Speaking for Others][112].” *Cultural Critique*, no. 20 (1991): 5–32.
-- Chapter 1 from [*Culture and Imperialism*][113] (1993) by Edward Said.
+- Alcoff, Linda. “[The Problem of Speaking for Others][102].” *Cultural Critique*, no. 20 (1991): 5–32.
+- Chapter 1 from [*Culture and Imperialism*][103] (1993) by Edward Said.
 
-[111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
-[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
-[113]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
+[101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
+[102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
+[103]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
 
 ### Week 11
 
 - ~~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~~
 - "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This
-   Introduction is About You" in  *Novel Gazing: Queer Readings in Fiction* (1997) by Eve Kosofsky Sedgwick
-- Selections from *A History of the Modern Fact* (1998) by Mary Poovey.
-- "The Touch of the Real" in [Practicing New Historicism][121] (2000) by Catherine Gallagher
+  Introduction is About You" in  *Novel Gazing: Queer Readings in Fiction* (1997) by Eve
+Kosofsky Sedgwick
+- Chapter 1 in [*A History of the Modern Fact*][112] (1998) by Mary Poovey.
+- "The Touch of the Real" in [Practicing New Historicism][111] (2000) by Catherine Gallagher
   and Stephen Greenblatt.
 
-[121]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
+[111]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
+[112]: https://courseworks2.columbia.edu/courses/104410/files?preview=9571443
 
 ### Week 12
 

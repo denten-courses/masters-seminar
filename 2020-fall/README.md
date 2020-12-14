@@ -257,7 +257,7 @@ Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 19
 
 - ~~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~~
 - "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This
-  Introduction is About You" in  *Novel Gazing: Queer Readings in Fiction* (1997) by Eve
+  Introduction is About You" in  [*Novel Gazing: Queer Readings in Fiction*][113] (1997) by Eve
 Kosofsky Sedgwick
 - Chapter 1 in [*A History of the Modern Fact*][112] (1998) by Mary Poovey.
 - "The Touch of the Real" in [Practicing New Historicism][111] (2000) by Catherine Gallagher
@@ -265,6 +265,7 @@ Kosofsky Sedgwick
 
 [111]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 [112]: https://courseworks2.columbia.edu/courses/104410/files?preview=9571443
+[113]: https://courseworks2.columbia.edu/courses/104410/files?preview=9669756
 
 ### Week 12
 

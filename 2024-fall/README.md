@@ -29,7 +29,7 @@ the way to a successful completion of the degree program.
 
 ## Provisional Reading Schedule
 
-### Week 1: Historicism, National Literature, Aesthetics, Tradition
+### Week 1: Historicism, National Literature, Aesthetics
 
 Introductions, class requirements. Course goals.
 

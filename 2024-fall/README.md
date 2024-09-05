@@ -39,7 +39,7 @@ Introductions, class requirements. Course goals.
   by Vernon Lee [Violet Paget].
 
 [01]: https://archive.org/details/functionofcritic00arno/page/n7/mode/2up
-[02]: https://ia801405.us.archive.org/13/items/in.ernet.dli.2015.201677/2015.201677.The-Beautiful.pdf
+[02]: https://archive.org/details/in.ernet.dli.2015.201677
 
 ### Week 2: Philology, Comparative Method
 

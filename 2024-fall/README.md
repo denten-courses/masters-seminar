@@ -33,8 +33,7 @@ the way to a successful completion of the degree program.
 
 Introductions, class requirements. Course goals.
 
-- “[The Function of Criticism at the Present Time][01]” (pages 9--36) in [*Essays in Criticism*][13]
-  (1865) by Matthew Arnold.
+- “[The Function of Criticism at the Present Time][01]” (1865) by Matthew Arnold.
 - Walter Pater, "[Essay on Style][01]" (1889).
 - Chapters 17--19 in [*The Beautiful: An Introduction to Psychological Aesthetics*][02] (1913)
   by Vernon Lee [Violet Paget].

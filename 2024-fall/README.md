@@ -39,11 +39,7 @@ Introductions, class requirements. Course goals.
   by Vernon Lee [Violet Paget].
 
 [01]: https://archive.org/details/functionofcritic00arno/page/n7/mode/2up
-[02]: https://archive.org/download/beautifulintrodu00leevuoft/beautifulintrodu00leevuoft_bw.pdf
-[11]: https://archive.org/download/historyenglishl12laungoog/historyenglishl12laungoog.pdf
-[12]: https://courseworks2.columbia.edu/courses/104410/files?preview=8433868
-[13]: https://archive.org/download/essaysbymatthew00arnogoog/essaysbymatthew00arnogoog.pdf
-[14]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27527739?Search=yes&resultItemClick=true&searchText=English+Philology+and+English+Literature+in+American+Universities&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DEnglish%2BPhilology%2Band%2BEnglish%2BLiterature%2Bin%2BAmerican%2BUniversities&ab_segments=0%2Fbasic_search%2Fcontrol&refreqid=fastly-default%3A61c748b332389454f9eecdf961052610&seq=1#metadata_info_tab_contents
+[02]: https://ia801405.us.archive.org/13/items/in.ernet.dli.2015.201677/2015.201677.The-Beautiful.pdf
 
 ### Week 2: Philology, Comparative Method
 

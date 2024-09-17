@@ -29,7 +29,7 @@ the way to a successful completion of the degree program.
 
 ## Provisional Reading Schedule
 
-### Week 1: Historicism, National Literature, Aesthetics
+### Week 1
 
 Introductions, class requirements. Course goals.
 
@@ -41,44 +41,37 @@ Introductions, class requirements. Course goals.
 [01]: https://archive.org/details/functionofcritic00arno/page/n7/mode/2up
 [02]: https://archive.org/details/in.ernet.dli.2015.201677
 
-### Week 2: Philology, Comparative Method
+### Week 2
 
-- "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the [*Analytics
-  of Literature*][23] (1893) by L.A. Sherman, pages 281--302.
+- "[Art as Device][29]" (~1917) by Viktor Shklovsky
 - "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
   Fiction*][24] (1908) by Clayton Meeker Hamilton.
 - Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan
   Tragedy*][34] (1914) by Harriott Ely Fansler.
-
-Explore: *The Transactions of the American Philological Association* (1869-1896) in JSTOR. Pick an
-issue and browse through the articles. Post to our discussion board reflecting briefly on your
-impressions.
-
 
 [21]: https://archive.org/download/cu31924027248867/cu31924027248867.pdf
 [22]: https://archive.org/download/literatureameric00babb_0/literatureameric00babb_0.pdf
 [23]: https://archive.org/download/analyticsofliter00sheruoft/analyticsofliter00sheruoft.pdf
 [24]: https://archive.org/download/materialsandmet01hamigoog/materialsandmet01hamigoog.pdf
 [34]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
+[29]: https://read-dukeupress-edu.ezproxy.cul.columbia.edu/poetics-today/article/36/3/151/21143/Art-as-Device
 
 ### Week 3
 
-- "The Development of Folk-tales and Myths" (1916), in [*The Scientific Monthly*][33] by Franz
-  Boas.
-- "Tradition and the Individual Talent" by T.S. Eliot, [Part I][35] in *The Egoist* (September,
-  1919) and [Parts II and III][36] in No. 5 Vol. VI, December, 1919.
+- "[Thoughts, Words, and Things][39]" in the *Meaning of Meaning* (1923) by Ogden and Richards.
+- Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
+- Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 
 [33]: https://archive.org/download/jstor-6151/6151.pdf
 [35]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [36]: https://modjourn.org/issue/bdr:523006/
+[51]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
+[39]: https://drive.google.com/file/d/1YTzl8bAgF3Y7dFjsNRUsj74SIOgygby3/view?usp=sharing
 
 ### Week 4
 
-- Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
-- "[Values and Imperatives][45]" (~1930s) by Alain LeRoy Locke. - Part I, "Introductory",
-pages 1--20; Part II, "Poem 1"; Part III, Chapter V: "Irrelevant Associations and Stock
-Responses"; and Part IV, "Culture in the Protocols" in [*Practical Criticism: A Study of
-Literary Judgement*][43] (1929) by I.A. Richards.
+- "[Values and Imperatives][45]" (~1930s) by Alain LeRoy Locke. 
+- Chapters I, V, VI, VII in *Art as Experience* (1934) by John Dewey.
 
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf
@@ -88,14 +81,12 @@ Literary Judgement*][43] (1929) by I.A. Richards.
 ### Week 5
 
 - John Crowe Ransom, "[Criticism, Inc.][54]" (1937).
-- Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.
 - "[The Rhetoric of Hitler's 'Battle'][61]" (1939) reprinted in *The Philosophy of Literary
   Form* by Kenneth Burke.
 - ~~Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.~~
 
-[51]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
 [52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
 [53]: https://archive.org/details/folklorememoirso00hurs/page/812
 [54]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/26434018?Search=yes&resultItemClick=true&searchText=criticism+inc&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dcriticism%2Binc%26acc%3Don%26wc%3Don%26fc%3Doff%26group%3Dnone&ab_segments=0%2Fbasic_search_SYC-5462%2Fcontrol&refreqid=fastly-default%3A988e03d755a05e0011212c9681829aaa&seq=1#metadata_info_tab_contents

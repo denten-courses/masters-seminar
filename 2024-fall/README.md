@@ -44,8 +44,8 @@ Introductions, class requirements. Course goals.
 ### Week 2
 
 - "[Art as Device][29]" (~1917) by Viktor Shklovsky
-- "The Purpose of Fiction" and "The Structure of the Short-story" in [*Materials and Methods of
-  Fiction*][24] (1908) by Clayton Meeker Hamilton.
+- "Introduction" by Brander Mathews, "The Nature of Narrative," "Plot" and "The Structure of
+the Short-story" in [*Materials and Methods of Fiction*][24] (1908) by Clayton Hamilton.
 - Introduction and Chapter I: Tragic Situations in [*The Evolution of Technic in Elizabethan
   Tragedy*][34] (1914) by Harriott Ely Fansler.
 

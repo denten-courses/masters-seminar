@@ -72,7 +72,7 @@ the Short-story" in [*Materials and Methods of Fiction*][24] (1908) by Clayton H
 - Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
 - Professional Formats I: Conference, Talk, Paper, Presentation
 
-We will use "[Toward a More Accessible Conference Presentation](https://profession.mla.org/toward-a-more-accessible-conference-presentation/)" by Jason S. Farr and Travis Chi Wing Lau as a starting point, but please give come ready with questions for discussion.
+We will use "[Toward a More Accessible Conference Presentation](https://profession.mla.org/toward-a-more-accessible-conference-presentation/)" by Jason S. Farr and Travis Chi Wing Lau as a starting point, but please  come ready with questions for discussion.
 
 [42]: https://archive.org/download/craftoffiction030210mbp/craftoffiction030210mbp.pdf
 [43]: https://archive.org/download/practicalcritici030142mbp/practicalcritici030142mbp.pdf

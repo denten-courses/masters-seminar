@@ -92,7 +92,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [53]: https://archive.org/details/folklorememoirso00hurs/page/812
 [54]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/26434018?Search=yes&resultItemClick=true&searchText=criticism+inc&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dcriticism%2Binc%26acc%3Don%26wc%3Don%26fc%3Doff%26group%3Dnone&ab_segments=0%2Fbasic_search_SYC-5462%2Fcontrol&refreqid=fastly-default%3A988e03d755a05e0011212c9681829aaa&seq=1#metadata_info_tab_contents
 
-### Week 5
+### Week 6
 
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
@@ -109,7 +109,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [64]: https://clio.columbia.edu/catalog/4843426
 [65]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27537676?casa_token=W8pW7wsnBk0AAAAA%3AzjICCE2RYuMByNFXMGOSke1VjU7kkqivtO-5OOtxWew7MEQW64aOnu2llZybvoSfsGI8G_ZXODNE_HrCKDrT2xSrOwpx2baQ1OsO6N2T-7ImSMQVxw&seq=1#metadata_info_tab_contents
 
-### Week 6
+### Week 7
 
 - Fourth Essay in the [*Anatomy of Criticism*][622] (1957) by Northrop Frye.
 - "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
@@ -129,7 +129,7 @@ or elsewhere. I honor that original intention and encourage you to consider how 
 take advantage of the short break from classes. Please continue your reading for this week as
 usual. We will be discussing the Week 6 readings alongside those in Week 7.
 
-### Week 7
+### Week 8
 
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
 - Chapter 1, "Literature as Transformation," in [*The Dynamics of Literary Response*][72]
@@ -144,7 +144,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [73]: https://courseworks2.columbia.edu/courses/82199/files?preview=6118063
 
 
-### Week 8
+### Week 9
 
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
@@ -161,7 +161,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [84]: https://courseworks2.columbia.edu/courses/82199/files
 [85]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 
-### Week 9
+### Week 10
 
 - "[Infection in the Sentence: The Woman Writer and the Anxiety of Authorship][105]" in the *The
 Madwoman in the Attic* (1979) by Sandra Gilbert and Susan Gubar.
@@ -180,7 +180,7 @@ Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 19
 [94]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
 [95]: https://www-degruyter-com.ezproxy.cul.columbia.edu/yaleup/abstract/book/9780300252972/10.12987/9780300252972-004.xml
 
-### Week 10
+### Week 11
 
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][101].” *New Literary
   History* 21, no. 4 (1990): 867–96.
@@ -193,7 +193,7 @@ Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 19
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
 [103]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
 
-### Week 11
+### Week 12
 
 - ~~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~~
 - "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This
@@ -206,7 +206,7 @@ Kosofsky Sedgwick
 [111]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 [112]: https://courseworks2.columbia.edu/courses/104410/files?preview=9571443
 
-### Week 12
+### Week 13
 
 - "The Burden of English" in [*Aesthetic Education in the Era of Globalization*][121] (2005) by
   Gayatri Spivak.
@@ -218,7 +218,7 @@ Kosofsky Sedgwick
 [122]: https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
 [123]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents
 
-### Week 13
+### Week 14
 
 - Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
   Literary History 41, no. 2 (2010): 371-91.

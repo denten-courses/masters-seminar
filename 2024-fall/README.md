@@ -89,7 +89,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 - ~~Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.~~
 
 [52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
-[53]: https://archive.org/details/folklorememoirso00hurs/page/812
+[53]: https://read.dukeupress.edu/books/book/1923/chapter/190753/What-White-Publishers-Won-t-Print-1950
 [54]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/26434018?Search=yes&resultItemClick=true&searchText=criticism+inc&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dcriticism%2Binc%26acc%3Don%26wc%3Don%26fc%3Doff%26group%3Dnone&ab_segments=0%2Fbasic_search_SYC-5462%2Fcontrol&refreqid=fastly-default%3A988e03d755a05e0011212c9681829aaa&seq=1#metadata_info_tab_contents
 [61]: https://drive.google.com/file/d/1yQeFEr3r7x93xqkMM4FxY5yoD7YMgkOT/view?usp=sharing
 

@@ -101,7 +101,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
   Wilson.
 - Wimsatt, W. K.; Beardsley, M. C. (1946). "[The Intentional Fallacy][65]". The Sewanee Review. 54 (3): 468–488.
 
-[62]: https://drive.google.com/drive/folders/1ihk4WKLoWEeXqtM28SmnVR0P4lqt4uEs?dmr=1&ec=wgc-drive-hero-goto
+[62]: https://drive.google.com/file/d/1gMP7WrUYA7NuQdvdulqd42u2lEsL4T9J/view?usp=drive_link
 [63]: https://drive.google.com/file/d/1gMP7WrUYA7NuQdvdulqd42u2lEsL4T9J/view?usp=sharing
 [64]: https://clio.columbia.edu/catalog/4843426
 [65]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27537676?casa_token=W8pW7wsnBk0AAAAA%3AzjICCE2RYuMByNFXMGOSke1VjU7kkqivtO-5OOtxWew7MEQW64aOnu2llZybvoSfsGI8G_ZXODNE_HrCKDrT2xSrOwpx2baQ1OsO6N2T-7ImSMQVxw&seq=1#metadata_info_tab_contents

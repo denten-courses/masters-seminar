@@ -100,9 +100,6 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
 - Wimsatt, W. K.; Beardsley, M. C. (1946). "[The Intentional Fallacy][65]". The Sewanee Review. 54 (3): 468–488.
-- ~~Selections from John Crowe Ransom, *The New Criticism* (1941).~~
-- ~~Wimsatt, W. K., and M. C. Beardsley. “The Affective Fallacy.” *[The Sewanee Review* 57][64], no. 1
-  (1949): 31–55.~~
 
 [62]: https://drive.google.com/drive/folders/1ihk4WKLoWEeXqtM28SmnVR0P4lqt4uEs?dmr=1&ec=wgc-drive-hero-goto
 [63]: https://archive.org/download/theoryofliteratu00inwell/theoryofliteratu00inwell_bw.pdf
@@ -112,16 +109,18 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 ### Week 7
 
 - Fourth Essay in the [*Anatomy of Criticism*][622] (1957) by Northrop Frye.
-- "Chapter I: Telling and Showing" and "Chapter VI: Types of Narration" in the [*Rhetoric of
-  Fiction*][633] (1961) by Wayne Booth.
+- [Philology and "Weltliteratur"][711] by Erich Auerbach, transl Maire Said, Edward Said in *The Centennial Review*, Vol. 13, No. 1 (WINTER 1969)
 - "[On the Modern Element in Modern Literature][611]" in *Partisan Review* 28.1 (1961), pages
-  9--35 by Lionel Trilling.\*
+  9--35 by Lionel Trilling.\*of
+- Roland Barthes, ["The Death of the Author"][712] (1969).
 
 \*<sub>Available in digital format only. Take the time to browse contextual material.</sub>
 
 [611]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
 [622]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
 [633]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
+[711]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/23738133
+[712]: https://drive.google.com/drive/folders/1ihk4WKLoWEeXqtM28SmnVR0P4lqt4uEs?dmr=1&ec=wgc-drive-hero-goto
 
 !!! Election Day: The four day “Election Break” was established by the Columbia University Senate
 in October 1970 to permit students and faculty to work on the elections in their home districts

@@ -86,7 +86,6 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
   Won't Print][53]" circa 1930--1950s, by Zora Neale Hurston.
 - "[The Rhetoric of Hitler's 'Battle'][61]" (1939) reprinted in *The Philosophy of Literary
   Form* by Kenneth Burke.
-- ~~Chapter VIII in [*Seven Types of Ambiguity*][44] (1930) by William Empson.~~
 
 [52]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3346585?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Zora+Hurston%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Zora%2BHurston%2522%26amp%3Brefreqid%3Dsearch%253A0bd692ca8d79bef38fdb3a5eb537ec62&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A994acb08c971c7031471755f3eaafc1c#metadata_info_tab_contents
 [53]: https://read.dukeupress.edu/books/book/1923/chapter/190753/What-White-Publishers-Won-t-Print-1950
@@ -110,13 +109,10 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 
 ### Week 7
 
-- Jakobson R., "[Closing Statement: Linguistics and Poetics][713]", in Style in Language (ed. Thomas Sebeok), 1960.
-- [Philology and "Weltliteratur"][711] by Erich Auerbach, transl Maire Said, Edward Said in *The Centennial Review*, Vol. 13, No. 1 (WINTER 1969)
-- "[On the Modern Element in Modern Literature][611]" in *Partisan Review* 28.1 (1961), pages
-  9--35 by Lionel Trilling.\*of
-- Roland Barthes, ["The Death of the Author"][712] (1969).
-
-\*<sub>Available in digital format only. Take the time to browse contextual material.</sub>
+- Jakobson Roman, "[Closing Statement: Linguistics and Poetics][713]" in Style in Language (ed. Thomas Sebeok), 1960.
+-  Selection from *Structural Semantics: An Attempt at a Method* (1966) by Algirdas Julien Greimas.  
+- [Philology and "Weltliteratur"][711] by Erich Auerbach, transl Maire Said, Edward Said in *The Centennial Review*, Vol. 13, No. 1 (WINTER 1969).
+- Essays of choice from *Mythologies* by Ronald Barthes (several from Part I and Part II).
 
 [611]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
 [633]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
@@ -133,10 +129,7 @@ usual. We will be discussing the Week 6 readings alongside those in Week 7.
 ### Week 8
 
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
-- Chapter 1, "Literature as Transformation," in [*The Dynamics of Literary Response*][72]
-  (1968) by Norman Holland.
-- Chapters One and Two in Kate Millet's, [*Sexual Politics*][73] (1970).
-- "On Style" and "Notes on Camp" by Susan Sontag (1966).
+- Susan Sontag "Against Interpretation," and "On Style" or "Notes on Camp" by Susan Sontag (1966).
 
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
@@ -147,13 +140,12 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 9
 
+- Selections from *Towards a Sociology of the Novel* (1963) by Lucien Goldmann.
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
-- "[Illness as Metaphor][85]" by Susan Sontag in *The New York Review of Books*, January 1978.
-- ~~Pages 1--8 and 264--306 in [*The Country and The City*][82] (1973) by Raymond Williams.~~
-- ~~"Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
-  Frederic Jameson.~~
+- ~Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+  Frederic Jameson.
 - ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
   (1973): 41–54~~.
 

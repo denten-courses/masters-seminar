@@ -128,6 +128,7 @@ usual. We will be discussing the Week 6 readings alongside those in Week 7.
 
 ### Week 8
 
+- Selections from *Towards a Sociology of the Novel* (1963) by Lucien Goldmann.
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
 - Susan Sontag "Against Interpretation," and "On Style" or "Notes on Camp" by Susan Sontag (1966).
 
@@ -140,11 +141,10 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 9
 
-- Selections from *Towards a Sociology of the Novel* (1963) by Lucien Goldmann.
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
-- ~Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+- Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
   Frederic Jameson.
 - ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
   (1973): 41–54~~.

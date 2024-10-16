@@ -98,9 +98,9 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
   Warren.
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
-- Wimsatt, W. K.; Beardsley, M. C. (1946). "[The Intentional Fallacy][65]". The Sewanee Review. 54 (3): 468–488.
-- Fourth Essay in the [*Anatomy of Criticism*][622] (1957) by Northrop Frye.
+- "Discourse in the Novel," pages 259--300 in [*The Dialogic Imagination*][61] by Mikhail Bakhtin.
 
+[61]: https://drive.google.com/file/d/1odIW2gcLf6jfkZrv_mECM1EvkFbyf7ID/view?usp=sharing
 [62]: https://drive.google.com/file/d/14d2GqSdGJ8okkm3y0TN0oFA2kFxDAi3l/view?usp=drive_link
 [622]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
 [63]: https://drive.google.com/file/d/1gMP7WrUYA7NuQdvdulqd42u2lEsL4T9J/view?usp=sharing

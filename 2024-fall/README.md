@@ -100,15 +100,17 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 - "The Historical Interpretation of Literature" in *[Triple Thinkers][62]* (1948) by Edmund
   Wilson.
 - Wimsatt, W. K.; Beardsley, M. C. (1946). "[The Intentional Fallacy][65]". The Sewanee Review. 54 (3): 468–488.
+- Fourth Essay in the [*Anatomy of Criticism*][622] (1957) by Northrop Frye.
 
 [62]: https://drive.google.com/file/d/14d2GqSdGJ8okkm3y0TN0oFA2kFxDAi3l/view?usp=drive_link
+[622]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
 [63]: https://drive.google.com/file/d/1gMP7WrUYA7NuQdvdulqd42u2lEsL4T9J/view?usp=sharing
 [64]: https://clio.columbia.edu/catalog/4843426
 [65]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27537676?casa_token=W8pW7wsnBk0AAAAA%3AzjICCE2RYuMByNFXMGOSke1VjU7kkqivtO-5OOtxWew7MEQW64aOnu2llZybvoSfsGI8G_ZXODNE_HrCKDrT2xSrOwpx2baQ1OsO6N2T-7ImSMQVxw&seq=1#metadata_info_tab_contents
 
 ### Week 7
 
-- Fourth Essay in the [*Anatomy of Criticism*][622] (1957) by Northrop Frye.
+- Jakobson R., "[Closing Statement: Linguistics and Poetics][713]", in Style in Language (ed. Thomas Sebeok), 1960.
 - [Philology and "Weltliteratur"][711] by Erich Auerbach, transl Maire Said, Edward Said in *The Centennial Review*, Vol. 13, No. 1 (WINTER 1969)
 - "[On the Modern Element in Modern Literature][611]" in *Partisan Review* 28.1 (1961), pages
   9--35 by Lionel Trilling.\*of
@@ -117,10 +119,10 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 \*<sub>Available in digital format only. Take the time to browse contextual material.</sub>
 
 [611]: http://archives.bu.edu/collections/partisan-review/search/detail?id=326052
-[622]: https://courseworks2.columbia.edu/courses/82199/files?preview=6115086
 [633]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 [711]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/23738133
 [712]: https://drive.google.com/drive/folders/1ihk4WKLoWEeXqtM28SmnVR0P4lqt4uEs?dmr=1&ec=wgc-drive-hero-goto
+[713]: https://drive.google.com/file/d/1N1InP3lb0b0RyKSOhMtKZprV_akw5t6R/view?usp=drive_link
 
 !!! Election Day: The four day “Election Break” was established by the Columbia University Senate
 in October 1970 to permit students and faculty to work on the elections in their home districts

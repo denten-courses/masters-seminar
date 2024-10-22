@@ -122,7 +122,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 
 ### Week 8
 
-- Selections from *Towards a Sociology of the Novel* (1963) by Lucien Goldmann.
+- Chapters 1 ("Introduction to the Problems of Sociology in the Novel") and 5 ("The Genetic-structuralist Method in the History of Literature] from [*Towards a Sociology of the Novel*][806] (1963) by Lucien Goldmann.
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
 - Susan Sontag ["Against Interpretation," "On Style," and "Notes on Camp"][805] by Susan Sontag (1966).
 
@@ -132,6 +132,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [72]: https://courseworks2.columbia.edu/courses/82199/files?preview=6117980
 [73]: https://courseworks2.columbia.edu/courses/82199/files?preview=6118063
 [805]: https://drive.google.com/file/d/1FPTIH6JKcfvb2L_z2Ngh2vKEBzEr4rkF/view?usp=drive_link
+[806]: https://drive.google.com/file/d/1I1ZbC3m5DISbwIQ2Flfn_BgAAwlkDMBz/view?usp=drive_link
 
 
 ### Week 9

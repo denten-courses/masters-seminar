@@ -120,12 +120,6 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [713]: https://drive.google.com/file/d/1L1zfnq34qWMm8_rSEBaLxxRXuPFdWTqp/view?usp=sharing
 [715]: https://drive.google.com/file/d/1UdFqtgRPeWl24Sw8iR4VC586LI2uFKKX/view?usp=sharing
 
-!!! Election Day: The four day “Election Break” was established by the Columbia University Senate
-in October 1970 to permit students and faculty to work on the elections in their home districts
-or elsewhere. I honor that original intention and encourage you to consider how you can best
-take advantage of the short break from classes. Please continue your reading for this week as
-usual. We will be discussing the Week 6 readings alongside those in Week 7.
-
 ### Week 8
 
 - Selections from *Towards a Sociology of the Novel* (1963) by Lucien Goldmann.

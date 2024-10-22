@@ -124,13 +124,14 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 
 - Selections from *Towards a Sociology of the Novel* (1963) by Lucien Goldmann.
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
-- Susan Sontag "Against Interpretation," and "On Style" or "Notes on Camp" by Susan Sontag (1966).
+- Susan Sontag ["Against Interpretation," "On Style," and "Notes on Camp"][805] by Susan Sontag (1966).
 
 [85]:
 https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_info_tab_contents
 [71]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1
 [72]: https://courseworks2.columbia.edu/courses/82199/files?preview=6117980
 [73]: https://courseworks2.columbia.edu/courses/82199/files?preview=6118063
+[805]: https://drive.google.com/file/d/1FPTIH6JKcfvb2L_z2Ngh2vKEBzEr4rkF/view?usp=drive_link
 
 
 ### Week 9

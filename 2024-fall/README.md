@@ -109,7 +109,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 
 ### Week 7
 
-- Jakobson Roman, "[Closing Statement: Linguistics and Poetics][713]" in Style in Language (ed. Thomas Sebeok), 1960.
+- Jakobson Roman, "[Two Aspects of Language and Two Types of Aphasic Disturbances][713]" in Style in Language (ed. Thomas Sebeok), 1960.
 -  Selection from *Structural Semantics: An Attempt at a Method* (1966) by Algirdas Julien Greimas.  
 - [Philology and "Weltliteratur"][711] by Erich Auerbach, transl Maire Said, Edward Said in *The Centennial Review*, Vol. 13, No. 1 (WINTER 1969).
 - Essays of choice from *Mythologies* by Ronald Barthes (several from Part I and Part II).
@@ -118,7 +118,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [633]: https://courseworks2.columbia.edu/files/6116816/download?download_frd=1
 [711]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/23738133
 [712]: https://drive.google.com/drive/folders/1ihk4WKLoWEeXqtM28SmnVR0P4lqt4uEs?dmr=1&ec=wgc-drive-hero-goto
-[713]: https://drive.google.com/file/d/1N1InP3lb0b0RyKSOhMtKZprV_akw5t6R/view?usp=drive_link
+[713]: https://drive.google.com/file/d/1L1zfnq34qWMm8_rSEBaLxxRXuPFdWTqp/view?usp=sharing
 
 !!! Election Day: The four day “Election Break” was established by the Columbia University Senate
 in October 1970 to permit students and faculty to work on the elections in their home districts

@@ -135,7 +135,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [806]: https://drive.google.com/file/d/1I1ZbC3m5DISbwIQ2Flfn_BgAAwlkDMBz/view?usp=drive_link
 
 
-### Week 9: Marxist Theory
+### Week 9: Marxist Thought
 
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
@@ -145,6 +145,8 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
   (1973): 41–54~~.
 
+> ***Professional Formats III: Introductions***
+
 [82]: https://courseworks2.columbia.edu/courses/82199/files?
 [83]: https://archive.org/details/marxismliteraryc00eagl/page/n5
 [84]: https://courseworks2.columbia.edu/courses/82199/files
@@ -153,14 +155,14 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 ### Week 10: Post-Structuralism
 
 
-### Week 11: High Theory
+### Week 11: Theory, New Historicism
 
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][101].” *New Literary
   History* 21, no. 4 (1990): 867–96.
-- Alcoff, Linda. “[The Problem of Speaking for Others][102].” *Cultural Critique*, no. 20
-  (1991): 5–32.
 - Chapter 1 from [*Culture and Imperialism*][103] (1993) by Edward Said. (Select from
   *Orientalism* instead.)
+- "The Touch of the Real" in [Practicing New Historicism][111] (2000) by Catherine Gallagher
+  and Stephen Greenblatt. (Select another, less theoretical chapter here).
 
 [101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
@@ -168,36 +170,32 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 12: Post Theory
 
-- ~~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~~
 - "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This
   Introduction is About You" in  *Novel Gazing: Queer Readings in Fiction* (1997) by Eve
 Kosofsky Sedgwick
-- Chapter 1 in [*A History of the Modern Fact*][112] (1998) by Mary Poovey.
-- "The Touch of the Real" in [Practicing New Historicism][111] (2000) by Catherine Gallagher
-  and Stephen Greenblatt. (Select another, less theoretical chapter here).
+- "[Surface Reading: An Introduction][122]" by Sharon Marcus and Stephen Best in *Representations*, Vol.
+108, No. 1 (Fall 2009), pp. 1-21.
+- Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
+  Literary History 41, no. 2 (2010): 371-91.
 
-[111]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
-[112]: https://courseworks2.columbia.edu/courses/104410/files?preview=9571443
+[122]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/10.1525/rep.2009.108.1.1
+[123]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents
 
 ### Week 13: New Directions
 
-- "The Burden of English" in [*Aesthetic Education in the Era of Globalization*][121] (2005) by
-  Gayatri Spivak.
 - Selections from *Ugly Feelings* (2007) by Sianne Ngai.
-- "Audiences and Publics" in [*The Anthropology of Texts, Persons and Publics*][122] (2007) by
-  Karin Barber.
-
-[121]: https://courseworks2.columbia.edu/files/6554119/download?download_frd=1 
-[122]: https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
-[123]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40983827?Search=yes&resultItemClick=true&searchText=au%3A&searchText=%22Heather+Love%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26amp%3BQuery%3Dau%253A%2522Heather%2BLove%2522%26amp%3Brefreqid%3Dsearch%253A10b7a8a0e27d7aa44576752f7cba7229&ab_segments=0%2Fbasic_SYC-4802%2Ftest1&refreqid=search%3A397b9fd7ecde1e76c2591c05adc658b3&seq=4#metadata_info_tab_contents
-
-### Week 14
-
-- Love, Heather. "[Close but Not Deep: Literary Ethics and the Descriptive Turn][123]." New
-  Literary History 41, no. 2 (2010): 371-91.
 - Selection from *The Fall of Language in the Age of English* (2015) by Minae Mizumura.
 - English, James F. “Now, Not Now: Counting Time in Contemporary Fiction Studies.” *Modern
   Language Quarterly* 77, no. 3 (September 1, 2016): 395–418.
+
+[121]: https://courseworks2.columbia.edu/files/6554119/download?download_frd=1 
+[122]: https://web-a-ebscohost-com.ezproxy.cul.columbia.edu/ehost/ebookviewer/ebook/ZTAyNXhuYV9fMjIwMzUxX19BTg2?sid=fc3d9e3a-d890-4fae-ae89-e2cb983b25ac@sessionmgr4007&vid=0&format=EB&lpid=lp_200&rid=0
+
+> ***Professional Formats IV: The Anatomy of a Monograph***
+
+### Week 14: New Directions
+
 - Selections from *Wayward Lives, Beautiful Experiments* (2019) by Saidiya Hartman.
+- “Distributed Agency in the Novel” by Dennis Yi Tenen *New Literary History* 54.1 (2022): 903-937.
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?

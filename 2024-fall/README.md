@@ -29,7 +29,7 @@ the way to a successful completion of the degree program.
 
 ## Provisional Reading Schedule
 
-### Week 1
+### Week 1: Criticism, History, Aesthetics
 
 Introductions, class requirements. Course goals.
 
@@ -41,7 +41,7 @@ Introductions, class requirements. Course goals.
 [01]: https://archive.org/details/functionofcritic00arno/page/n7/mode/2up
 [02]: https://archive.org/details/in.ernet.dli.2015.201677
 
-### Week 2
+### Week 2: Formalilsm, Comparative Method
 
 - "[Art as Device][29]" (~1917) by Viktor Shklovsky
 - "Introduction" by Brander Mathews, "The Nature of Narrative," "Plot" and "The Structure of
@@ -56,22 +56,19 @@ the Short-story" in [*Materials and Methods of Fiction*][24] (1908) by Clayton H
 [34]: https://courseworks2.columbia.edu/files/5815641/download?download_frd=1
 [29]: https://read-dukeupress-edu.ezproxy.cul.columbia.edu/poetics-today/article/36/3/151/21143/Art-as-Device
 
-### Week 3
+### Week 3 -- 4: Eclecticism, Disciplinary Formation
 
 - "[Thoughts, Words, and Things][39]" in the *Meaning of Meaning* (1923) by Ogden and Richards.
 - Introduction and Part I in [*Fiction and the Reading Public*][51] (1939) by Q.D. Leavis.
+- Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
+  
+> ***Professional Formats I: Conference, Talk, Paper, Presentation***
 
 [33]: https://archive.org/download/jstor-6151/6151.pdf
 [35]: http://www.modjourn.org/render.php?id=1308761641493752&view=mjp_object
 [36]: https://modjourn.org/issue/bdr:523006/
 [51]: https://archive.org/download/fictionandtherea030248mbp/fictionandtherea030248mbp.pdf
 [39]: https://drive.google.com/file/d/1YTzl8bAgF3Y7dFjsNRUsj74SIOgygby3/view?usp=sharing
-
-### Week 4
-
-- Chapters I, II, XVII, and XVIII in the [Craft of Fiction][42] (1921) by Percy Lubbock.
-  
-> ***Professional Formats I: Conference, Talk, Paper, Presentation***
 
 We will use "[Toward a More Accessible Conference Presentation](https://profession.mla.org/toward-a-more-accessible-conference-presentation/)" by Jason S. Farr and Travis Chi Wing Lau as a starting point, but please  come ready with questions for discussion.
 
@@ -80,7 +77,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [44]: https://archive.org/download/in.ernet.dli.2015.215758/2015.215758.Seven-Types_text.pdf
 [45]: https://courseworks2.columbia.edu/courses/104410/files?preview=8554664
 
-### Week 5
+### Week 5: New Criticism
 
 - John Crowe Ransom, "[Criticism, Inc.][54]" (1937).
 - "[Folklore and Music][52]," "[Introduction to Mules and Men][53]," and "[What White Publishers
@@ -93,7 +90,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [54]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/26434018?Search=yes&resultItemClick=true&searchText=criticism+inc&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dcriticism%2Binc%26acc%3Don%26wc%3Don%26fc%3Doff%26group%3Dnone&ab_segments=0%2Fbasic_search_SYC-5462%2Fcontrol&refreqid=fastly-default%3A988e03d755a05e0011212c9681829aaa&seq=1#metadata_info_tab_contents
 [51]: https://drive.google.com/file/d/1yQeFEr3r7x93xqkMM4FxY5yoD7YMgkOT/view?usp=sharing
 
-### Week 6
+### Week 6: Post WWII European Injection
 
 - Pages 1--37 and 139--159 in [Theory of Literature][63] (1942) by Renee Wellek and Austin
   Warren.
@@ -110,7 +107,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [64]: https://clio.columbia.edu/catalog/4843426
 [65]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/27537676?casa_token=W8pW7wsnBk0AAAAA%3AzjICCE2RYuMByNFXMGOSke1VjU7kkqivtO-5OOtxWew7MEQW64aOnu2llZybvoSfsGI8G_ZXODNE_HrCKDrT2xSrOwpx2baQ1OsO6N2T-7ImSMQVxw&seq=1#metadata_info_tab_contents
 
-### Week 7
+### Week 7: Structuralism, Philology
 
 - Jakobson Roman, "[Two Aspects of Language and Two Types of Aphasic Disturbances][713]" in Style in Language (ed. Thomas Sebeok), 1960.
 - [Philology and "Weltliteratur"][711] by Erich Auerbach, transl Maire Said, Edward Said in *The Centennial Review*, Vol. 13, No. 1 (WINTER 1969).
@@ -123,7 +120,7 @@ We will use "[Toward a More Accessible Conference Presentation](https://professi
 [713]: https://drive.google.com/file/d/1L1zfnq34qWMm8_rSEBaLxxRXuPFdWTqp/view?usp=sharing
 [715]: https://drive.google.com/file/d/1UdFqtgRPeWl24Sw8iR4VC586LI2uFKKX/view?usp=sharing
 
-### Week 8
+### Week 8: Beyond Formalism
 
 - Chapters 1 ("Introduction to the Problems of Sociology in the Novel") and 5 ("The Genetic-structuralist Method in the History of Literature] from [*Towards a Sociology of the Novel*][806] (1963) by Lucien Goldmann.
 - Hartman, Geoffrey. “[Beyond Formalism][71].” *MLN* 81, no. 5 (1966): 542–56.
@@ -138,7 +135,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [806]: https://drive.google.com/file/d/1I1ZbC3m5DISbwIQ2Flfn_BgAAwlkDMBz/view?usp=drive_link
 
 
-### Week 9
+### Week 9: Marxist Theory
 
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in

@@ -41,7 +41,7 @@ Introductions, class requirements. Course goals.
 [01]: https://archive.org/details/functionofcritic00arno/page/n7/mode/2up
 [02]: https://archive.org/details/in.ernet.dli.2015.201677
 
-### Week 2: Formalilsm, Comparative Method
+### Week 2: Formalism, Comparative Method
 
 - "[Art as Device][29]" (~1917) by Viktor Shklovsky
 - "Introduction" by Brander Mathews, "The Nature of Narrative," "Plot" and "The Structure of
@@ -150,26 +150,10 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [84]: https://courseworks2.columbia.edu/courses/82199/files
 [85]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
 
-### Week 10
+### Week 10: Post-Structuralism
 
-- "[Infection in the Sentence: The Woman Writer and the Anxiety of Authorship][105]" in the *The
-Madwoman in the Attic* (1979) by Sandra Gilbert and Susan Gubar.
-- ~~Showalter, Elaine. “[Feminist Criticism in the Wilderness][91].” *Critical Inquiry* 8, no. 2
-  (1981): 179–205.~~
-- ~~De Man, Paul. “[The Resistance to Theory][92].” Yale French Studies, no. 63 (1982): 3--20.~~
-- "[Metaphor, Metonymy, and Voice in Their Eyes are Watching God][94]" (1989) by Barbara Johnson.
-- ~~"Zora Neale Hurston and the Speakerly Text" in [*Signifying Monkey: A Theory of
-  African-American Literary Criticism*][93] (1988) by Henry Louis Gates.~~
-- "Mama's Baby, Papa's Maybe: An American Grammar Book" by Hortense J. Spillers in *Diacritics*
-Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 1987), pp. 64-81.
 
-[91]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i257729?refreqid=excelsior%3Ae6ec75bc528f0c6f58653c397f75a72d
-[92]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2929828?Search=yes&resultItemClick=true&searchText=The&searchText=Resistance&searchText=to&searchText=Theory&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BResistance%2Bto%2BTheory&ab_segments=0%2Fdefault-2%2Fcontrol&refreqid=search%3A6111d0f4c102e2343c09e6d538fcdc6f&seq=1#metadata_info_tab_contents
-[93]: https://courseworks2.columbia.edu/files/5583486/download?download_frd=1
-[94]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380676
-[95]: https://www-degruyter-com.ezproxy.cul.columbia.edu/yaleup/abstract/book/9780300252972/10.12987/9780300252972-004.xml
-
-### Week 11
+### Week 11: High Theory
 
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][101].” *New Literary
   History* 21, no. 4 (1990): 867–96.
@@ -182,7 +166,7 @@ Vol. 17, No. 2, Culture and Countermemory: The "American" Connection (Summer, 19
 [102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
 [103]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
 
-### Week 12
+### Week 12: Post Theory
 
 - ~~Selections from *Epistemology of the Closet* (1990) by Eve Kosofsky Sedgwick.~~
 - "Paranoid Reading and Reparative Reading; or, You’re So Paranoid, You Probably Think This
@@ -195,7 +179,7 @@ Kosofsky Sedgwick
 [111]: https://courseworks2.columbia.edu/files/5583226/download?download_frd=1
 [112]: https://courseworks2.columbia.edu/courses/104410/files?preview=9571443
 
-### Week 13
+### Week 13: New Directions
 
 - "The Burden of English" in [*Aesthetic Education in the Era of Globalization*][121] (2005) by
   Gayatri Spivak.

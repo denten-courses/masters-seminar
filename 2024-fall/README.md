@@ -135,15 +135,13 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 [806]: https://drive.google.com/file/d/1I1ZbC3m5DISbwIQ2Flfn_BgAAwlkDMBz/view?usp=drive_link
 
 
-### Week 9: Marxist Thought
+### Week 9: Textual Criticism, Marxist Thought
 
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
 - Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
   Bibliography* 29 (1976): 167–211.
-- Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+- "Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
   Frederic Jameson.
-- ~~Fish, Stanley E. “How Ordinary Is Ordinary Language?” *New Literary History* 5, no. 1
-  (1973): 41–54~~.
 
 > ***Professional Formats III: Introductions***
 
@@ -193,9 +191,11 @@ Kosofsky Sedgwick
 
 > ***Professional Formats IV: The Anatomy of a Monograph***
 
-### Week 14: New Directions
+### Week 14: Departmental Themes
 
 - Selections from *Wayward Lives, Beautiful Experiments* (2019) by Saidiya Hartman.
 - “Distributed Agency in the Novel” by Dennis Yi Tenen *New Literary History* 54.1 (2022): 903-937.
+- Selections from *Experimental Histories: Interpolation and the Medieval British Past* (2024) by 
+Hannah Weaver.
 
 [145]: https://courseworks2.columbia.edu/courses/82199/files?

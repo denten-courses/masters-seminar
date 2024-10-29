@@ -143,7 +143,7 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - "Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
   Frederic Jameson.
 
-> ***Professional Formats III: Introductions***
+> ***Professional Formats III: Journals***
 
 [82]: https://courseworks2.columbia.edu/courses/82199/files?
 [83]: https://archive.org/details/marxismliteraryc00eagl/page/n5
@@ -152,19 +152,24 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 10: Post-Structuralism
 
+- Barbara Johnson, “The Frame of Reference” (1978), in The Barbara Johnson Reader.
+- "[Translator's Introduction][1003]" by Gayatri Spivak, in Derrida's *Of Grammatology* (1974).
+- "[Feminism and Deconstruction][1002] by Mary Poovey in *Feminist Studies*, Vol. 14, No. 1 (Spring, 1988), pp. 51-65.
+
+  [1002]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3177998?seq=1
+  [1003]: https://drive.google.com/file/d/1l1POrvmYBEJMToLKIkvqUPW2yEbB9_Nq/view?usp=sharing
 
 ### Week 11: Theory, New Historicism
 
-- Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][101].” *New Literary
+- Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary
   History* 21, no. 4 (1990): 867–96.
-- Chapter 1 from [*Culture and Imperialism*][103] (1993) by Edward Said. (Select from
-  *Orientalism* instead.)
+- Chapter 2 from [*Culture and Imperialism*][113] (1993) by Edward Said.
 - "The Touch of the Real" in [Practicing New Historicism][111] (2000) by Catherine Gallagher
   and Stephen Greenblatt. (Select another, less theoretical chapter here).
 
-[101]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
-[102]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
-[103]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
+[111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
+[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
+[113]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
 
 ### Week 12: Post Theory
 

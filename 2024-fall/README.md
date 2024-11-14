@@ -138,17 +138,17 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 ### Week 9: Textual Criticism, Marxist Thought
 
 - "The Author as Producer" in [*Marxism and Literary Criticism*][83] by Terry Eagleton (1976).
-- Tanselle, G. Thomas. “The Editorial Problem of Final Authorial Intention.” *Studies in
-  Bibliography* 29 (1976): 167–211.
-- "Narrative as a Socially Symbolic Act" in [*The Political Unconscious*][94] (1981) by
+- "Magical Narratives: On the Dialectical Use of Genre Criticism " in [*The Political Unconscious*][84] (1981) by
   Frederic Jameson.
+- Tanselle, G. Thomas. “[The Editorial Problem of Final Authorial Intention][81].” *Studies in
+  Bibliography* 29 (1976): 167–211.
 
 > ***Professional Formats III: Journals***
 
-[82]: https://courseworks2.columbia.edu/courses/82199/files?
-[83]: https://archive.org/details/marxismliteraryc00eagl/page/n5
-[84]: https://courseworks2.columbia.edu/courses/82199/files
+[81]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/40371633
+[83]: https://www-taylorfrancis-com.ezproxy.cul.columbia.edu/chapters/mono/10.4324/9780203361771-6/author-producer-terry-eagleton?context=ubx&refId=2911637c-fdb2-4216-8308-9aeaf8fa3e91
 [85]: https://www-nybooks-com.ezproxy.cul.columbia.edu/issues/1978/01/26/
+[84]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/10.7591/j.ctt1287f8w.5
 
 ### Week 10: Post-Structuralism
 

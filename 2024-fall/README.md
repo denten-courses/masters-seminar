@@ -152,12 +152,13 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 
 ### Week 10: Post-Structuralism
 
-- Barbara Johnson, “The Frame of Reference” (1978), in The Barbara Johnson Reader.
+- Barbara Johnson, “[The Frame of Reference][1004]” (1978), *Yale French Studies*, 1977, No. 55/56, Literature and Psychoanalysis. The Question of Reading: Otherwise (1977), pp. 457-505
 - "[Translator's Introduction][1003]" by Gayatri Spivak, in Derrida's *Of Grammatology* (1974).
 - "[Feminism and Deconstruction][1002] by Mary Poovey in *Feminist Studies*, Vol. 14, No. 1 (Spring, 1988), pp. 51-65.
 
   [1002]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/3177998?seq=1
   [1003]: https://drive.google.com/file/d/1l1POrvmYBEJMToLKIkvqUPW2yEbB9_Nq/view?usp=sharing
+  [1004]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/pdf/2930445.pdf
 
 ### Week 11: Theory, New Historicism
 

@@ -165,12 +165,13 @@ https://www-jstor-org.ezproxy.cul.columbia.edu/stable/2907978?seq=1#metadata_inf
 - Scarry, Elaine. “[Consent and the Body: Injury, Departure, and Desire][111].” *New Literary
   History* 21, no. 4 (1990): 867–96.
 - Chapter 2 from [*Culture and Imperialism*][113] (1993) by Edward Said.
-- "The Touch of the Real" in [Practicing New Historicism][111] (2000) by Catherine Gallagher
-  and Stephen Greenblatt. (Select another, less theoretical chapter here).
+- "The Touch of the Real" in [Practicing New Historicism][114] (2000) by Catherine Gallagher
+  and Stephen Greenblatt.
 
 [111]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i220241?refreqid=excelsior%3Ae7d9681cd7287789cee051cac90b353a
-[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155
-[113]: https://courseworks2.columbia.edu/courses/82199/files?preview=6380752
+[112]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/i258520?refreqid=excelsior%3Ace144081c846cd02c6856c0e4d93d155 (SPEAKING FOR OTHERS)
+[113]: https://drive.google.com/file/d/10dT-rF5M0WSjDsO5jbPAmbiQuyila4Ua/view?usp=drive_link
+[114]: https://drive.google.com/file/d/1RX5n8C_HHOlWpP_CRGy2yK1ZeuhsnxAI/view?usp=drive_link
 
 ### Week 12: Post Theory
 
